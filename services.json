@@ -20,8 +20,8 @@ Moussa Kertous
   {
     "name": "Server 1",
     "image": "https://example.com/images/server1.png",
-    "config": "de.ovpn",
-    "hostname": "https://github.com/qatarvpn/vpnme/blob/main/de1.ovpn",
+    "config": "de1.ovpn",
+    "hostname": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de1.ovpn",
     "password": "password123"
   },
   {
