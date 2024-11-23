@@ -1,39 +1,23 @@
 [
   {
-    "name": "de1",
-    "imageUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-    "ovpnFile": "de1.ovpn",
+    "name": "Server 1",
+    "image": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
+    "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de1.ovpn",
     "username": "vpnbook",
     "password": "e83zu76"
   },
   {
-    "name": "de1",
-    "imageUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-    "ovpnFile": "server2.ovpn",
-    "username": "vpnbook",
-    "password": "vpnbook"
-  }
-]
-[
-  {
-    "name": "Server 1",
-    "image": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-    "config": "de1.ovpn",
-    "hostname": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de1.ovpn",
-   
-  },
-  {
     "name": "Server 2",
     "image": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-    "config": "de1.ovpn",
-    "hostname": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de1.ovpn",
-  
+    "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/server2.ovpn",
+    "username": "vpnbook",
+    "password": "vpnbook"
   },
   {
     "name": "Server 3",
     "image": "https://example.com/images/server3.png",
-    "config": "server3.ovpn",
-    "hostname": "server3.example.com",
-  
+    "config": "https://example.com/configs/server3.ovpn",
+    "username": "user3",
+    "password": "pass3"
   }
 ]
