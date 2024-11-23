@@ -1,17 +1,17 @@
 [
   {
-    "name": "Server 1",
-    "imageUrl": "https://example.com/image.jpg",
+    "name": "de1",
+    "imageUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
     "ovpnFile": "de1.ovpn",
     "username": "vpnbook",
     "password": "e83zu76"
   },
   {
-    "name": "Server 2",
-    "imageUrl": "https://example.com/image2.jpg",
+    "name": "de1",
+    "imageUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
     "ovpnFile": "server2.ovpn",
-    "username": "user2",
-    "password": "pass2"
+    "username": "vpnbook",
+    "password": "vpnbook"
   }
 ]
 Moussa
@@ -19,23 +19,23 @@ Moussa Kertous
 [
   {
     "name": "Server 1",
-    "image": "https://example.com/images/server1.png",
+    "image": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
     "config": "de1.ovpn",
     "hostname": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de1.ovpn",
-    "password": "password123"
+   
   },
   {
     "name": "Server 2",
-    "image": "https://example.com/images/server2.png",
-    "config": "server2.ovpn",
-    "hostname": "server2.example.com",
-    "password": "password456"
+    "image": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
+    "config": "de1.ovpn",
+    "hostname": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de1.ovpn",
+  
   },
   {
     "name": "Server 3",
     "image": "https://example.com/images/server3.png",
     "config": "server3.ovpn",
     "hostname": "server3.example.com",
-    "password": "password789"
+  
   }
 ]
