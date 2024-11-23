@@ -2,9 +2,9 @@
   {
     "name": "Server 1",
     "imageUrl": "https://example.com/image.jpg",
-    "ovpnFile": "server1.ovpn",
-    "username": "user1",
-    "password": "pass1"
+    "ovpnFile": "de1.ovpn",
+    "username": "vpnbook",
+    "password": "e83zu76"
   },
   {
     "name": "Server 2",
@@ -20,8 +20,8 @@ Moussa Kertous
   {
     "name": "Server 1",
     "image": "https://example.com/images/server1.png",
-    "config": "server1.ovpn",
-    "hostname": "server1.example.com",
+    "config": "de.ovpn",
+    "hostname": "https://github.com/qatarvpn/vpnme/blob/main/de1.ovpn",
     "password": "password123"
   },
   {
