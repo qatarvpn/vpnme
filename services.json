@@ -13,11 +13,4 @@
     "username": "vpnbook",
     "password": "vpnbook"
   },
-  {
-    "name": "Server 3",
-    "image": "https://example.com/images/server3.png",
-    "config": "https://example.com/configs/server3.ovpn",
-    "username": "user3",
-    "password": "pass3"
-  }
 ]
