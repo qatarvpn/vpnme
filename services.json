@@ -1,0 +1,17 @@
+[
+  {
+    "name": "US Server 1",
+    "country": "USA",
+    "url": "https://your-username.github.io/vpn-configs/us1.ovpn"
+  },
+  {
+    "name": "UK Server 1",
+    "country": "UK",
+    "url": "https://your-username.github.io/vpn-configs/uk1.ovpn"
+  },
+  {
+    "name": "Germany Server 1",
+    "country": "Germany",
+    "url": "https://your-username.github.io/vpn-configs/de1.ovpn"
+  }
+]
