@@ -1,16 +1,16 @@
 [
-  {
-    "name": "de1",
-    "image": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-    "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de1.ovpn",
-    "username": "vpnbook",
-    "password": "e83zu76"
-  },
-  {
-    "name": " de2",
-    "image": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-    "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/server2.ovpn",
-    "username": "vpnbook",
-    "password": "vpnbook"
-  },
+    {
+        "name": "de1",
+        "image": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
+        "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de1.ovpn",
+        "username": "vpnbook",
+        "password": "e83zu76"
+    },
+    {
+        "name": "de2",
+        "image": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
+        "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/server2.ovpn",
+        "username": "vpnbook",
+        "password": "vpnbook"
+    }
 ]
