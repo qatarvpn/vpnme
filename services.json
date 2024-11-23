@@ -1,17 +1,41 @@
 [
   {
-    "name": "US Server 1",
-    "country": "USA",
-    "url": "https://github.com/qatarvpn/vpnme/blob/main/us1.ovpn"
+    "name": "Server 1",
+    "imageUrl": "https://example.com/image.jpg",
+    "ovpnFile": "server1.ovpn",
+    "username": "user1",
+    "password": "pass1"
   },
   {
-    "name": "UK Server 1",
-    "country": "UK",
-    "url": "https://github.com/qatarvpn/vpnme/blob/main/uk1.ovpn"
+    "name": "Server 2",
+    "imageUrl": "https://example.com/image2.jpg",
+    "ovpnFile": "server2.ovpn",
+    "username": "user2",
+    "password": "pass2"
+  }
+]
+Moussa
+Moussa Kertous
+[
+  {
+    "name": "Server 1",
+    "image": "https://example.com/images/server1.png",
+    "config": "server1.ovpn",
+    "hostname": "server1.example.com",
+    "password": "password123"
   },
   {
-    "name": "Germany Server 1",
-    "country": "Germany",
-    "url": "https://github.com/qatarvpn/vpnme/blob/main/de2.ovpn"
+    "name": "Server 2",
+    "image": "https://example.com/images/server2.png",
+    "config": "server2.ovpn",
+    "hostname": "server2.example.com",
+    "password": "password456"
+  },
+  {
+    "name": "Server 3",
+    "image": "https://example.com/images/server3.png",
+    "config": "server3.ovpn",
+    "hostname": "server3.example.com",
+    "password": "password789"
   }
 ]
