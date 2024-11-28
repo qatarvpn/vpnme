@@ -95,7 +95,7 @@
       "port": 3128,
       "username": "User101-vpnjantit.com",
       "password": "password4",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/ca.png",
+      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
       "name": "Canada WS",
       "payloadConfig": {
         "method": "HEAD",
