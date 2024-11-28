@@ -1,10 +1,10 @@
 {
   "servers": [
     {
-      "host": "51.159.125.86",
-      "port": 442,
-      "username": "sshkit-5231065783",
-      "password": "1234",
+      "host": "nl3.vpnjantit.com",
+      "port": 2086,
+      "username": "momo20WB-vpnjantit.com",
+      "password": "mo1234",
       "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
       "name": "France WS"
     },
