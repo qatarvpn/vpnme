@@ -1,68 +1,15 @@
-{
-  "servers": [
     {
-      "host": "152.228.162.19",
-      "port": 109,
-      "username": "u7732179037",
-      "password": "123456",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-      "name": "United States",
-      "payloadConfig": {
-        "method": "HEAD",
-        "path": "/",
-        "host": "web.whatsapp.com",
-        "headers": {
-          "Upgrade": "websocket",
-          "Connection": "Upgrade",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-          "Sec-WebSocket-Protocol": "chat",
-          "Sec-WebSocket-Version": "13",
-          "Pragma": "no-cache",
-          "Cache-Control": "no-cache"
-        }
-      }
+        "server_name": "Server 1",
+        "ovpn_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/fr2.ovpn"
+        "username": "vpnbook",
+        "password": "e83zu76",
+        "image_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png"
     },
     {
-      "host": "uk1.example.com",
-      "port": 8080,
-      "username": "vpnuser",
-      "password": "vpnpass123",
-      "iconUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/vpnme/main/flags/uk.png",
-      "name": "United Kingdom",
-      "payloadConfig": {
-        "method": "GET",
-        "path": "/chat",
-        "host": "meet.google.com",
-        "headers": {
-          "Upgrade": "websocket",
-          "Connection": "Upgrade",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-          "Sec-WebSocket-Protocol": "chat",
-          "Sec-WebSocket-Version": "13",
-          "Origin": "https://meet.google.com"
-        }
-      }
-    },
-    {
-      "host": "sg1.example.com",
-      "port": 8080,
-      "username": "vpnuser",
-      "password": "vpnpass123",
-      "iconUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/vpnme/main/flags/sg.png",
-      "name": "Singapore",
-      "payloadConfig": {
-        "method": "GET",
-        "path": "/socket.io",
-        "host": "teams.microsoft.com",
-        "headers": {
-          "Upgrade": "websocket",
-          "Connection": "Upgrade",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-          "Sec-WebSocket-Protocol": "chat",
-          "Sec-WebSocket-Version": "13",
-          "Origin": "https://teams.microsoft.com"
-        }
-      }
+        "server_name": "Server 2",
+        "ovpn_url": "https://github.com/yourrepo/configs/server2.ovpn",
+        "username": "user2",
+        "password": "password2",
+        "image_url": "https://github.com/yourrepo/images/server2.png"
     }
-  ]
-}
+]
