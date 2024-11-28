@@ -5,7 +5,7 @@
       "port": 22,
       "username": "sshkit-5231065783",
       "password": "1234",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/fr.png",
+      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
       "name": "France SSH",
       "payloadConfig": {
         "request": {
