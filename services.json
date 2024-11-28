@@ -10,20 +10,47 @@
       "payloadConfig": {
         "request": {
           "method": "GET",
-          "url": "web.whatsapp.com",
-          "protocol": "HTTP/1.1",
+          "url": "https://example.com/api/servers",
+          "protocol": "HTTPS",
           "headers": {
-            "Authorization": "Bearer token1",
-            "User-Agent": "MyVPNClient"
+            "Authorization": "Bearer your_token",
+            "Accept": "application/json"
           }
         },
         "response": {
           "status": 200,
           "headers": {
             "Content-Type": "application/json",
-            "Server": "nginx/1.18.0"
+            "Cache-Control": "no-cache"
           }
         }
       }
     },
-  
+    {
+      "host": "server2.example.com",
+      "port": 22,
+      "username": "user2",
+      "password": "password2",
+      "iconUrl": "https://example.com/icons/server2.png",
+      "name": "Server 2",
+      "payloadConfig": {
+        "request": {
+          "method": "GET",
+          "url": "https://example.com/api/servers",
+          "protocol": "HTTPS",
+          "headers": {
+            "Authorization": "Bearer your_token",
+            "Accept": "application/json"
+          }
+        },
+        "response": {
+          "status": 200,
+          "headers": {
+            "Content-Type": "application/json",
+            "Cache-Control": "no-cache"
+          }
+        }
+      }
+    }
+  ]
+}
