@@ -4,22 +4,9 @@
       "host": "51.159.125.86",
       "port": 442,
       "username": "sshkit-5231065783",
-      "password": "1234",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
+      "password": "1234",  // Make sure this is not empty or blank
+      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/fr.png",
       "name": "France SSH",
-      "payloadConfig": {
-        "hostHeader": "m.facebook.com",
-        "hostPort": "442",
-        "protocol": "HTTP/1.1"
-      }
-    },
-    {
-      "host": "51.159.125.86",
-      "port": 442,
-      "username": "sshkit-5231065783",
-      "password": "1234",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/sg.png",
-      "name": "Singapore SSH",
       "payloadConfig": {
         "hostHeader": "m.facebook.com",
         "hostPort": "80",
