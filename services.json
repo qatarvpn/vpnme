@@ -27,16 +27,16 @@
       }
     },
     {
-      "host": "server2.example.com",
-      "port": 22,
-      "username": "user2",
-      "password": "password2",
+      "host": "ssh-fr1.sshkit.org",
+      "port": 442,
+      "username": "sshkit-5231065783",
+      "password": "1234",
       "iconUrl": "https://example.com/icons/server2.png",
       "name": "Server 2",
       "payloadConfig": {
         "request": {
           "method": "GET",
-          "url": "https://example.com/api/servers",
+          "url": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
           "protocol": "HTTPS",
           "headers": {
             "Authorization": "Bearer your_token",
