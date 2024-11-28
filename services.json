@@ -6,20 +6,26 @@
       "username": "sshkit-5231065783",
       "password": "1234",
       "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-      "name": "FR 1",
+      "name": "fr 1",
       "payloadConfig": {
         "request": {
           "method": "GET",
           "url": "web.whatsapp.com",
           "protocol": "HTTP/1.1",
           "headers": {
-            "Host": "web.whatsapp.com"
+            "Host": "web.whatsapp.com",
+            "X-Online-Host": "web.whatsapp.com",
+            "X-Forward-Host": "web.whatsapp.com",
+            "Connection": "keep-alive",
+            "User-Agent": "Mozilla/5.0"
           }
         },
         "response": {
           "status": 200,
           "headers": {
-            "Content-Type": "text/html"
+            "Content-Type": "text/html",
+            "Connection": "keep-alive",
+            "Server": "nginx"
           }
         }
       }
