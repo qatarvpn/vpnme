@@ -1,12 +1,20 @@
 {
   "servers": [
     {
-      "host": "gr1.vpnjantit.com",
-      "port": 22,
-      "username": "momo2015l-vpnjantit.com",
-      "password": "momo5",
+      "host": "51.159.125.86",
+      "port": 442,
+      "username": "sshkit-5231065783",
+      "password": "1234",
       "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/fr.png",
       "name": "France SSH"
+    },
+    {
+      "host": "51.159.125.87",
+      "port": 442,
+      "username": "sshkit-5231065784",
+      "password": "5678",
+      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/uk.png",
+      "name": "UK SSH"
     }
   ]
 }
