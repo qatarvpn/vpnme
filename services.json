@@ -167,7 +167,7 @@
       "port": 8080,
       "username": "User505-vpnjantit.com",
       "password": "password8",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/br.png",
+      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
       "name": "Brazil WS",
       "payloadConfig": {
         "method": "HEAD",
