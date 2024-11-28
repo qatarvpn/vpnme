@@ -1,7 +1,7 @@
 {
   "servers": [
     {
-      "host": "ssh-fr1.sshkit.org",
+      "host": "51.159.125.86",
       "port": 442,
       "username": "sshkit-5231065783",
       "password": "1234",
