@@ -10,7 +10,7 @@
       "payloadConfig": {
         "request": {
           "method": "GET",
-          "url": "https://example.com/api/servers",
+          "url": "web.whatsapp.com",
           "protocol": "HTTPS",
           "headers": {
             "Authorization": "Bearer your_token",
