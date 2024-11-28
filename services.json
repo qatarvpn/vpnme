@@ -31,12 +31,12 @@
       "port": 442,
       "username": "sshkit-5231065783",
       "password": "1234",
-      "iconUrl": "https://example.com/icons/server2.png",
+      "iconUrl": ""https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
       "name": "de 2",
       "payloadConfig": {
         "request": {
           "method": "GET",
-          "url": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
+          "url": "web.whatsapp.com",
           "protocol": "HTTPS",
           "headers": {
             "Authorization": "Bearer your_token",
