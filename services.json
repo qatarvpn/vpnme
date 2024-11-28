@@ -41,7 +41,7 @@
       "port": 443,
       "username": "User123-vpnjantit.com",
       "password": "password1",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/us.png",
+      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
       "name": "USA WS",
       "payloadConfig": {
         "method": "HEAD",
