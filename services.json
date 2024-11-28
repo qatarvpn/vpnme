@@ -6,48 +6,20 @@
       "username": "sshkit-5231065783",
       "password": "1234",
       "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-      "name": "de 1",
+      "name": "FR 1",
       "payloadConfig": {
         "request": {
           "method": "GET",
           "url": "web.whatsapp.com",
-          "protocol": "HTTPS",
+          "protocol": "HTTP/1.1",
           "headers": {
-            "Authorization": "Bearer your_token",
-            "Accept": "application/json"
+            "Host": "web.whatsapp.com"
           }
         },
         "response": {
           "status": 200,
           "headers": {
-            "Content-Type": "application/json",
-            "Cache-Control": "no-cache"
-          }
-        }
-      }
-    },
-    {
-      "host": "ssh-fr1.sshkit.org",
-      "port": 442,
-      "username": "sshkit-5231065783",
-      "password": "1234",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-      "name": "de 2",
-      "payloadConfig": {
-        "request": {
-          "method": "GET",
-          "url": "web.whatsapp.com",
-          "protocol": "HTTPS",
-          "headers": {
-            "Authorization": "Bearer your_token",
-            "Accept": "application/json"
-          }
-        },
-        "response": {
-          "status": 200,
-          "headers": {
-            "Content-Type": "application/json",
-            "Cache-Control": "no-cache"
+            "Content-Type": "text/html"
           }
         }
       }
