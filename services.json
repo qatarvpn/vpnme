@@ -35,82 +35,78 @@
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
         }
       }
-    }
-  ]
-}
-"servers": [
+    },
     {
-      "host": "fi1.vpnjz.com",
-      "port": 2086,
-      "username": "Momo5tg-vpnjantit.com",
-      "password": "mo1234",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-      "name": "France WS",
+      "host": "us1.vpnjz.com",
+      "port": 443,
+      "username": "User123-vpnjantit.com",
+      "password": "password1",
+      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/us.png",
+      "name": "USA WS",
       "payloadConfig": {
         "method": "HEAD",
         "path": "/",
-        "host": "web.whatsapp.com",
+        "host": "web.telegram.org",
         "headers": {
           "Upgrade": "websocket",
           "Connection": "Upgrade",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+          "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
         }
       }
     },
     {
-      "host": "51.159.125.87",
-      "port": 442,
-      "username": "sshkit-5231065784",
-      "password": "5678",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/uk.png",
-      "name": "UK WS",
+      "host": "jp1.vpnjz.com",
+      "port": 8443,
+      "username": "User456-vpnjantit.com",
+      "password": "password2",
+      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/jp.png",
+      "name": "Japan WS",
       "payloadConfig": {
         "method": "HEAD",
         "path": "/",
-        "host": "web.whatsapp.com",
+        "host": "api.twitter.com",
         "headers": {
           "Upgrade": "websocket",
           "Connection": "Upgrade",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-        }
-      }
-    }
-  ]
-"servers": [
-    {
-      "host": "fi1.vpnjz.com",
-      "port": 2086,
-      "username": "Momo5tg-vpnjantit.com",
-      "password": "mo1234",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-      "name": "France WS",
-      "payloadConfig": {
-        "method": "HEAD",
-        "path": "/",
-        "host": "web.whatsapp.com",
-        "headers": {
-          "Upgrade": "websocket",
-          "Connection": "Upgrade",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+          "User-Agent": "Mozilla/5.0 (X11; Linux x86_64)"
         }
       }
     },
     {
-      "host": "51.159.125.87",
-      "port": 442,
-      "username": "sshkit-5231065784",
-      "password": "5678",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/uk.png",
-      "name": "UK WS",
+      "host": "sg1.vpnjz.com",
+      "port": 80,
+      "username": "User789-vpnjantit.com",
+      "password": "password3",
+      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/sg.png",
+      "name": "Singapore WS",
       "payloadConfig": {
         "method": "HEAD",
         "path": "/",
-        "host": "web.whatsapp.com",
+        "host": "www.facebook.com",
         "headers": {
           "Upgrade": "websocket",
           "Connection": "Upgrade",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+          "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X)"
         }
       }
-    }
-  ]
+    },
+    {
+      "host": "ca1.vpnjz.com",
+      "port": 3128,
+      "username": "User101-vpnjantit.com",
+      "password": "password4",
+      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/ca.png",
+      "name": "Canada WS",
+      "payloadConfig": {
+        "method": "HEAD",
+        "path": "/",
+        "host": "www.youtube.com",
+        "headers": {
+          "Upgrade": "websocket",
+          "Connection": "Upgrade",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        }
+      }
+    },
+    {
+      "host": "au1
