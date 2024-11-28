@@ -2,7 +2,7 @@
   "servers": [
     {
       "host": "51.159.125.86",
-      "port": 8443,
+      "port": 22,
       "username": "sshkit-5231065783",
       "password": "1234",
       "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/fr.png",
