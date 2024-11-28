@@ -6,12 +6,7 @@
       "username": "sshkit-5231065783",
       "password": "1234",
       "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/fr.png",
-      "name": "France SSH",
-      "payloadConfig": {
-        "hostHeader": "m.facebook.com",
-        "hostPort": "80",
-        "protocol": "HTTP/1.1"
-      }
+      "name": "France SSH"
     }
   ]
 }
