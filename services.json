@@ -2,33 +2,28 @@
   "servers": [
     {
       "host": "51.159.125.86",
-      "port": 22,
+      "port": 442,
       "username": "sshkit-5231065783",
       "password": "1234",
       "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
       "name": "France SSH",
       "payloadConfig": {
-        "request": {
-          "method": "GET",
-          "url": "51.159.125.86",
-          "protocol": "HTTP/1.1",
-          "headers": {
-            "Host": "51.159.125.86",
-            "X-Online-Host": "51.159.125.86",
-            "X-Forward-Host": "51.159.125.86",
-            "Connection": "keep-alive",
-            "Upgrade": "websocket",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-          }
-        },
-        "response": {
-          "status": 200,
-          "headers": {
-            "Content-Type": "application/octet-stream",
-            "Connection": "keep-alive",
-            "Server": "nginx"
-          }
-        }
+        "hostHeader": "m.facebook.com",
+        "hostPort": "80",
+        "protocol": "HTTP/1.1"
+      }
+    },
+    {
+      "host": "51.159.125.86",
+      "port": 442,
+      "username": "sshkit-5231065783",
+      "password": "1234",
+      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/sg.png",
+      "name": "Singapore SSH",
+      "payloadConfig": {
+        "hostHeader": "m.facebook.com",
+        "hostPort": "80",
+        "protocol": "HTTP/1.1"
       }
     }
   ]
