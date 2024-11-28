@@ -31,7 +31,7 @@
       "port": 442,
       "username": "sshkit-5231065783",
       "password": "1234",
-      "iconUrl": ""https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
+      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
       "name": "de 2",
       "payloadConfig": {
         "request": {
