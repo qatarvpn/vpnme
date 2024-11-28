@@ -1,10 +1,10 @@
 {
   "servers": [
     {
-      "host": "fi1.vpnjz.com",
-      "port": 2086,
-      "username": "Momo5tg-vpnjantit.com",
-      "password": "mo1234",
+      "host": "152.228.162.19",
+      "port": 109,
+      "username": "u7732179037",
+      "password": "123456",
       "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
       "name": "France WS",
       "payloadConfig": {
