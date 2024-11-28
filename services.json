@@ -59,7 +59,7 @@
       "port": 8443,
       "username": "User456-vpnjantit.com",
       "password": "password2",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/jp.png",
+      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
       "name": "Japan WS",
       "payloadConfig": {
         "method": "HEAD",
