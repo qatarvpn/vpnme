@@ -1,25 +1,56 @@
 {
-  "server": {
-    "host": "ssh-fr1.sshkit.org",
-    "port": 442,
-    "username": "sshkit-5231065783",
-    "password": "1234",
-    "protocol": "ssh",
-    "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-  },
-  "request": {
-    "method": "HEAD",
-    "url": "/",
-    "protocol": "HTTP/1.1",
-    "headers": {
-      "Host": "web.whatsapp.com"
+  "servers": [
+    {
+      "host": "ssh-fr1.sshkit.org",
+      "port": 442,
+      "username": "sshkit-5231065783",
+      "password": "1234",
+      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
+      "name": "Server 1",
+      "payloadConfig": {
+        "request": {
+          "method": "GET",
+          "url": "web.whatsapp.com",
+          "protocol": "HTTP/1.1",
+          "headers": {
+            "Authorization": "Bearer token1",
+            "User-Agent": "MyVPNClient"
+          }
+        },
+        "response": {
+          "status": 200,
+          "headers": {
+            "Content-Type": "application/json",
+            "Server": "nginx/1.18.0"
+          }
+        }
+      }
+    },
+    {
+      "host": "vpn2.example.com",
+      "port": 1194,
+      "username": "user2",
+      "password": "pass2",
+      "iconUrl": "https://example.com/icons/server2.png",
+      "name": "Server 2",
+      "payloadConfig": {
+        "request": {
+          "method": "POST",
+          "url": "https://api.example.com/login",
+          "protocol": "HTTP/2",
+          "headers": {
+            "Authorization": "Bearer token2",
+            "User-Agent": "MyVPNClient"
+          }
+        },
+        "response": {
+          "status": 201,
+          "headers": {
+            "Content-Type": "application/json",
+            "Server": "Apache/2.4.41"
+          }
+        }
+      }
     }
-  },
-  "response": {
-    "status": 200,
-    "headers": {
-      "Content-Type": "text/html",
-      "Content-Length": "1024"
-    }
-  }
+  ]
 }
