@@ -5,8 +5,8 @@
       "port": 109,
       "username": "u7732179037",
       "password": "123456",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-      "name": "France WS",
+      "iconUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/vpnme/main/flags/us.png",
+      "name": "United States",
       "payloadConfig": {
         "method": "HEAD",
         "path": "/",
@@ -14,169 +14,53 @@
         "headers": {
           "Upgrade": "websocket",
           "Connection": "Upgrade",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "Sec-WebSocket-Protocol": "chat",
+          "Sec-WebSocket-Version": "13",
+          "Pragma": "no-cache",
+          "Cache-Control": "no-cache"
         }
       }
     },
     {
-      "host": "51.159.125.87",
-      "port": 442,
-      "username": "sshkit-5231065784",
-      "password": "5678",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-      "name": "UK WS",
-      "payloadConfig": {
-        "method": "HEAD",
-        "path": "/",
-        "host": "web.whatsapp.com",
-        "headers": {
-          "Upgrade": "websocket",
-          "Connection": "Upgrade",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-        }
-      }
-    },
-    {
-      "host": "us1.vpnjz.com",
-      "port": 443,
-      "username": "User123-vpnjantit.com",
-      "password": "password1",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-      "name": "USA WS",
-      "payloadConfig": {
-        "method": "HEAD",
-        "path": "/",
-        "host": "web.telegram.org",
-        "headers": {
-          "Upgrade": "websocket",
-          "Connection": "Upgrade",
-          "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
-        }
-      }
-    },
-    {
-      "host": "jp1.vpnjz.com",
-      "port": 8443,
-      "username": "User456-vpnjantit.com",
-      "password": "password2",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-      "name": "Japan WS",
-      "payloadConfig": {
-        "method": "HEAD",
-        "path": "/",
-        "host": "api.twitter.com",
-        "headers": {
-          "Upgrade": "websocket",
-          "Connection": "Upgrade",
-          "User-Agent": "Mozilla/5.0 (X11; Linux x86_64)"
-        }
-      }
-    },
-    {
-      "host": "sg1.vpnjz.com",
-      "port": 80,
-      "username": "User789-vpnjantit.com",
-      "password": "password3",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-      "name": "Singapore WS",
-      "payloadConfig": {
-        "method": "HEAD",
-        "path": "/",
-        "host": "www.facebook.com",
-        "headers": {
-          "Upgrade": "websocket",
-          "Connection": "Upgrade",
-          "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X)"
-        }
-      }
-    },
-    {
-      "host": "ca1.vpnjz.com",
-      "port": 3128,
-      "username": "User101-vpnjantit.com",
-      "password": "password4",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-      "name": "Canada WS",
-      "payloadConfig": {
-        "method": "HEAD",
-        "path": "/",
-        "host": "www.youtube.com",
-        "headers": {
-          "Upgrade": "websocket",
-          "Connection": "Upgrade",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-        }
-      }
-    },
-    {
-      "host": "au1.vpnjz.com",
-      "port": 1080,
-      "username": "User202-vpnjantit.com",
-      "password": "password5",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/au.png",
-      "name": "Australia WS",
-      "payloadConfig": {
-        "method": "HEAD",
-        "path": "/",
-        "host": "www.instagram.com",
-        "headers": {
-          "Upgrade": "websocket",
-          "Connection": "Upgrade",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-        }
-      }
-    },
-    {
-      "host": "in1.vpnjz.com",
-      "port": 3129,
-      "username": "User303-vpnjantit.com",
-      "password": "password6",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/in.png",
-      "name": "India WS",
-      "payloadConfig": {
-        "method": "HEAD",
-        "path": "/",
-        "host": "www.linkedin.com",
-        "headers": {
-          "Upgrade": "websocket",
-          "Connection": "Upgrade",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-        }
-      }
-    },
-    {
-      "host": "de1.vpnjz.com",
-      "port": 2087,
-      "username": "User404-vpnjantit.com",
-      "password": "password7",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-      "name": "Germany WS",
-      "payloadConfig": {
-        "method": "HEAD",
-        "path": "/",
-        "host": "www.reddit.com",
-        "headers": {
-          "Upgrade": "websocket",
-          "Connection": "Upgrade",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-        }
-      }
-    },
-    {
-      "host": "br1.vpnjz.com",
+      "host": "uk1.example.com",
       "port": 8080,
-      "username": "User505-vpnjantit.com",
-      "password": "password8",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-      "name": "Brazil WS",
+      "username": "vpnuser",
+      "password": "vpnpass123",
+      "iconUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/vpnme/main/flags/uk.png",
+      "name": "United Kingdom",
       "payloadConfig": {
-        "method": "HEAD",
-        "path": "/",
-        "host": "www.github.com",
+        "method": "GET",
+        "path": "/chat",
+        "host": "meet.google.com",
         "headers": {
           "Upgrade": "websocket",
           "Connection": "Upgrade",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "Sec-WebSocket-Protocol": "chat",
+          "Sec-WebSocket-Version": "13",
+          "Origin": "https://meet.google.com"
+        }
+      }
+    },
+    {
+      "host": "sg1.example.com",
+      "port": 8080,
+      "username": "vpnuser",
+      "password": "vpnpass123",
+      "iconUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/vpnme/main/flags/sg.png",
+      "name": "Singapore",
+      "payloadConfig": {
+        "method": "GET",
+        "path": "/socket.io",
+        "host": "teams.microsoft.com",
+        "headers": {
+          "Upgrade": "websocket",
+          "Connection": "Upgrade",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "Sec-WebSocket-Protocol": "chat",
+          "Sec-WebSocket-Version": "13",
+          "Origin": "https://teams.microsoft.com"
         }
       }
     }
