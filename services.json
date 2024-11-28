@@ -5,25 +5,26 @@
       "port": 442,
       "username": "sshkit-5231065783",
       "password": "1234",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-      "name": "fr 1",
+      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/fr.png",
+      "name": "France SSH",
       "payloadConfig": {
         "request": {
           "method": "GET",
-          "url": "web.whatsapp.com",
+          "url": "51.159.125.86",
           "protocol": "HTTP/1.1",
           "headers": {
-            "Host": "web.whatsapp.com",
-            "X-Online-Host": "web.whatsapp.com",
-            "X-Forward-Host": "web.whatsapp.com",
+            "Host": "51.159.125.86",
+            "X-Online-Host": "51.159.125.86",
+            "X-Forward-Host": "51.159.125.86",
             "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0"
+            "Upgrade": "websocket",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
           }
         },
         "response": {
           "status": 200,
           "headers": {
-            "Content-Type": "text/html",
+            "Content-Type": "application/octet-stream",
             "Connection": "keep-alive",
             "Server": "nginx"
           }
