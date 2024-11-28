@@ -1,16 +1,25 @@
-[
-    {
-        "name": "de1",
-        "image": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-        "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/fr2.ovpn",
-        "username": "vpnbook",
-        "password": "e83zu76"
-    },
-    {
-        "name": "de2",
-        "image": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
-        "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/fr2.ovpn",
-        "username": "vpnbook",
-        "password": "vpnbook"
+{
+  "server": {
+    "host": "ssh-fr1.sshkit.org",
+    "port": 442,
+    "username": "sshkit-5231065783",
+    "password": "1234",
+    "protocol": "ssh",
+    "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
+  },
+  "request": {
+    "method": "HEAD",
+    "url": "/",
+    "protocol": "HTTP/1.1",
+    "headers": {
+      "Host": "web.whatsapp.com"
     }
-]
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "text/html",
+      "Content-Length": "1024"
+    }
+  }
+}
