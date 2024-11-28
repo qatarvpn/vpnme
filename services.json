@@ -77,7 +77,7 @@
       "port": 80,
       "username": "User789-vpnjantit.com",
       "password": "password3",
-      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/sg.png",
+      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
       "name": "Singapore WS",
       "payloadConfig": {
         "method": "HEAD",
