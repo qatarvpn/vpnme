@@ -5,7 +5,7 @@
       "port": 109,
       "username": "u7732179037",
       "password": "123456",
-      "iconUrl": "https://raw.githubusercontent.com//qatarvpn/vpnme/main/de.png",
+      "iconUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png",
       "name": "United States",
       "payloadConfig": {
         "method": "HEAD",
