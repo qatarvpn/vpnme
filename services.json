@@ -1,15 +1,36 @@
-    {
-        "server_name": "Server 1",
-        "ovpn_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/fr2.ovpn"
-        "username": "vpnbook",
-        "password": "e83zu76",
-        "image_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/main/de.png"
-    },
-    {
-        "server_name": "Server 2",
-        "ovpn_url": "https://github.com/yourrepo/configs/server2.ovpn",
-        "username": "user2",
-        "password": "password2",
-        "image_url": "https://github.com/yourrepo/images/server2.png"
+[
+  {
+    "vpn_config": {
+      "server_name": "DE 1 ",
+      "server_address": "51.75.145.20",
+      "port": 25000,
+      "protocol": "udp",
+      "username": "vpnbook",
+      "password": "e83zu76",
+      "file_url": "https://raw.githubusercontent.com/your-username/your-repo/main/configs/config1.ovpn",
+      "icon_url": "https://raw.githubusercontent.com/your-username/your-repo/main/icons/icon1.png",
+      "additional_config": {
+        "cipher": "AES-256-CBC",
+        "auth": "SHA256",
+        "remote_cert_tls": "server"
+      }
     }
-
+  },
+  {
+    "vpn_config": {
+      "server_name": "السيرفر الثاني",
+      "server_address": "vpn2.example.com",
+      "port": 1194,
+      "protocol": "udp",
+      "username": "user456",
+      "password": "pass456",
+      "file_url": "https://raw.githubusercontent.com/your-username/your-repo/main/configs/config2.ovpn",
+      "icon_url": "https://raw.githubusercontent.com/your-username/your-repo/main/icons/icon2.png",
+      "additional_config": {
+        "cipher": "AES-256-CBC",
+        "auth": "SHA256",
+        "remote_cert_tls": "server"
+      }
+    }
+  }
+]
