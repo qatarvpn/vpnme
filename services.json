@@ -18,13 +18,13 @@
   },
   {
     "vpn_config": {
-      "server_name": "السيرفر الثاني",
-      "server_address": "vpn2.example.com",
-      "port": 1194,
+      "server_name": "fr 1",
+      "server_address": "5.196.64.200",
+      "port": 25000,
       "protocol": "udp",
-      "username": "user456",
-      "password": "pass456",
-      "file_url": "https://raw.githubusercontent.com/your-username/your-repo/main/configs/config2.ovpn",
+      "username": "vpnbook",
+      "password": "e83zu76",
+      "file_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr1.ovpn",
       "icon_url": "https://raw.githubusercontent.com/your-username/your-repo/main/icons/icon2.png",
       "additional_config": {
         "cipher": "AES-256-CBC",
