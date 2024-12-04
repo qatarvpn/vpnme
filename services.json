@@ -3,9 +3,9 @@
     {
       "name": "DE 1",
       "country": "United States",
-      "ip": "123.123.123.123",
-      "port": 443,
-      "protocol": "openvpn",
+      "ip": "51.75.145.220",
+      "port": 80,
+      "protocol": "tcp",
       "username": "vpnbook",
       "password": "e83zu76",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
