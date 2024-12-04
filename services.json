@@ -57,7 +57,7 @@
             "timestamp": 1701687689000
         },
         {
-            "name": "UK 2",
+            "name": "UK 3",
             "ovpn_file": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/UK_freeopenvpn_udp.ovpn",
             "flag": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/gb.png",
             "username": "freeopenvpn",
