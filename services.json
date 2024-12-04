@@ -1,6 +1,6 @@
  {
-  "name": "DE 2",
-  "ovpn_file":"https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de2.ovpn",
+  "name": "fr1",
+  "ovpn_file":"https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr1.ovpn",
   "flag": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de.png",
   "username": "vpnbook",
   "password": "e83zu76"
