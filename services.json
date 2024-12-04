@@ -1,7 +1,7 @@
 {
     "servers": [
         {
-            "name": "Germany 11",
+            "name": "Germany 1",
             "ovpn_file": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
             "flag": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de.png",
             "username": "vpnbook",
