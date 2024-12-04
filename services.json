@@ -96,13 +96,6 @@
             "password": "e83zu76",
             "timestamp": 1701687689000
         },
-        {
-            "name": "Singapore 1",
-            "ovpn_file": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/sg1.ovpn",
-            "flag": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/sg.png",
-            "username": "vpnbook",
-            "password": "e83zu76",
-            "timestamp": 1701687689000
-        }
+      
     ]
 }
