@@ -3,5 +3,12 @@
   "ovpn_file": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
   "flag": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de.png",
   "username": "vpnbook",
-  "password": "e83zu78"
+  "password": "e83zu76"
+}
+ {
+  "name": "DE 1",
+  "ovpn_file": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de2.ovpn",
+  "flag": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de.png",
+  "username": "vpnbook",
+  "password": "e83zu76"
 }
