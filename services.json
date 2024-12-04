@@ -17,17 +17,17 @@
             "timestamp": 1701687689000
         },
         {
-            "name": "Netherlands 1",
-            "ovpn_file": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/nl1.ovpn",
-            "flag": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/nl.png",
+            "name": "polanda 1",
+            "ovpn_file": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/pl1.ovpn",
+            "flag": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/id.png",
             "username": "vpnbook",
             "password": "e83zu76",
             "timestamp": 1701687689000
         },
         {
-            "name": "Netherlands 2",
-            "ovpn_file": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/nl2.ovpn",
-            "flag": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/nl.png",
+            "name": "polanda 2",
+            "ovpn_file": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/pl2.ovpn",
+            "flag": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/id.png",
             "username": "vpnbook",
             "password": "e83zu76",
             "timestamp": 1701687689000
@@ -51,7 +51,7 @@
         {
             "name": "UK 1",
             "ovpn_file": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk1.ovpn",
-            "flag": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk.png",
+            "flag": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/gb.png",
             "username": "vpnbook",
             "password": "e83zu76",
             "timestamp": 1701687689000
@@ -59,7 +59,7 @@
         {
             "name": "UK 2",
             "ovpn_file": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk2.ovpn",
-            "flag": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk.png",
+            "flag": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/gb.png",
             "username": "vpnbook",
             "password": "e83zu76",
             "timestamp": 1701687689000
