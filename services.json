@@ -58,10 +58,10 @@
         },
         {
             "name": "UK 2",
-            "ovpn_file": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk2.ovpn",
+            "ovpn_file": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/UK_freeopenvpn_udp.ovpn",
             "flag": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/gb.png",
-            "username": "vpnbook",
-            "password": "e83zu76",
+            "username": "freeopenvpn",
+            "password": "701863232",
             "timestamp": 1701687689000
         },
         {
