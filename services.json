@@ -1,11 +1,11 @@
 {
     "servers": [
         {
-            "name": "Germany 11",
-            "ovpn_file": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
+            "name": "Germany 1",
+            "ovpn_file": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/nlo-1.optnl.com-udp-1194.ovpn",
             "flag": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de.png",
-            "username": "vpnbook",
-            "password": "e83zu76",
+            "username": "opentunnel.net-vipsws30k",
+            "password": "mo1234",
             "timestamp": 1701687689000
         },
         {
