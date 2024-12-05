@@ -15,14 +15,14 @@
       "password": "e83zu76"
     },
     {
-      "name": "Germany Server 1",
+      "name": "Germany 1 🇩🇪",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/configs/de1.ovpn",
       "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/flags/de.png",
       "username": "vpnbook",
       "password": "e83zu76"
     },
     {
-      "name": "Germany Server 2",
+      "name": "Germany 2 🇩🇪",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/configs/de2.ovpn",
       "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/flags/de.png",
       "username": "vpnbook",
