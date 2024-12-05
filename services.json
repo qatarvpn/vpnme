@@ -8,8 +8,8 @@
       "protocol": "tcp",
       "username": "vpnbook",
       "password": "e83zu76",
-      "config_url": "https://example.com/config.ovpn",
-      "icon_url": "https://example.com/flag.png"
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
+      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de.png"
     }
   ]
 }
