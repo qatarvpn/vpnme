@@ -48,18 +48,7 @@
       "username": "vpnbook",
       "password": "e83zu76"
     },
-    {
-      "name": "singapore 1 🇸🇬",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/sg1.ovpn",
-      "username": "vpnbook",
-      "password": "e83zu76"
-    },
-    {
-      "name": "singapore 2 🇸🇬",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/sg2.ovpn",
-      "username": "vpnbook",
-      "password": "e83zu76"
-    },
+   
     {
       "name": "canada 1 🇨🇦",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca1.ovpn",
