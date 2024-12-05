@@ -1,7 +1,7 @@
 {
   "vpn_servers": [
     {
-      "name": "DE",
+      "name": "DE 1",
       "country": "GERMANY",
       "ip": "51.75.145.220",
       "port": "80",
