@@ -1,15 +1,37 @@
 {
   "vpn_servers": [
     {
-      "name": "DE 1",
-      "country": "GERMANY",
+      "name": "Germany VPN",
+      "country": "Germany",
       "ip": "51.75.145.220",
       "port": "80",
       "protocol": "tcp",
       "username": "vpnbook",
       "password": "e83zu76",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
-      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de.png"
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/configs/germany.ovpn",
+      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/flags/de.png"
+    },
+    {
+      "name": "France VPN",
+      "country": "France",
+      "ip": "51.75.145.221",
+      "port": "443",
+      "protocol": "tcp",
+      "username": "vpnbook",
+      "password": "e83zu76",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/configs/france.ovpn",
+      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/flags/fr.png"
+    },
+    {
+      "name": "USA VPN",
+      "country": "United States",
+      "ip": "51.75.145.222",
+      "port": "1194",
+      "protocol": "udp",
+      "username": "vpnbook",
+      "password": "e83zu76",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/configs/usa.ovpn",
+      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/flags/us.png"
     }
   ]
 }
