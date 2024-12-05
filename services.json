@@ -3,11 +3,11 @@
     {
       "name": "DE",
       "country": "GERMANY",
-      "ip": "server.example.com",
-      "port": "443",
+      "ip": "51.75.145.220",
+      "port": "80",
       "protocol": "tcp",
-      "username": "vpnuser",
-      "password": "vpnpass",
+      "username": "vpnbook",
+      "password": "e83zu76",
       "config_url": "https://example.com/config.ovpn",
       "icon_url": "https://example.com/flag.png"
     }
