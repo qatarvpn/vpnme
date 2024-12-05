@@ -1,7 +1,7 @@
 {
   "vpn_servers": [
     {
-      "name": "united states 1 🇲",
+      "name": "united states 1 🇺🇲",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/configs/us1.ovpn",
       "username": "vpnbook",
       "password": "e83zu76"
