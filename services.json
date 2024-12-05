@@ -2,8 +2,8 @@
   "vpn_servers": [
     {
       "name": "USA Server 1",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/configs/us1.ovpn",
-      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/flags/us.png",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us1.ovpn",
+      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us.png",
       "username": "vpnbook",
       "password": "e83zu76"
     },
