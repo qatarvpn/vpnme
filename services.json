@@ -1,88 +1,86 @@
-
 {
   "vpn_servers": [
     {
-      "name": "USA 1;
-",
+      "name": "USA Server 1",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us1.ovpn",
       "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us.png",
       "username": "vpnbook",
       "password": "e83zu76"
     },
     {
-      "name": "USA 2",
+      "name": "USA Server 2",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/configs/us2.ovpn",
-      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us.png",
+      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/flags/us.png",
       "username": "vpnbook",
       "password": "e83zu76"
     },
     {
-      "name": "Germany 1",
+      "name": "Germany Server 1",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/configs/de1.ovpn",
-      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us.png",
+      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/flags/de.png",
       "username": "vpnbook",
       "password": "e83zu76"
     },
     {
-      "name": "Germany 2",
+      "name": "Germany Server 2",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/configs/de2.ovpn",
-      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us.png",
+      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/flags/de.png",
       "username": "vpnbook",
       "password": "e83zu76"
     },
     {
-      "name": "UK 1",
+      "name": "UK Server 1",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/configs/uk1.ovpn",
-      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us.png",
+      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/flags/gb.png",
       "username": "vpnbook",
       "password": "e83zu76"
     },
     {
-      "name": "UK 2",
+      "name": "UK Server 2",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/configs/uk2.ovpn",
-      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us.png",
+      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/flags/gb.png",
       "username": "vpnbook",
       "password": "e83zu76"
     },
     {
-      "name": "polanda 1",
+      "name": "Japan Server 1",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/configs/jp1.ovpn",
-      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us.png",
+      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/flags/jp.png",
       "username": "vpnbook",
       "password": "e83zu76"
     },
     {
-      "name": "polanda 2",
+      "name": "Japan Server 2",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/configs/jp2.ovpn",
-      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us.png",
+      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/flags/jp.png",
       "username": "vpnbook",
       "password": "e83zu76"
     },
     {
-      "name": "Singapore 1",
+      "name": "Singapore Server 1",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/configs/sg1.ovpn",
-      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us.png",
+      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/flags/sg.png",
       "username": "vpnbook",
       "password": "e83zu76"
     },
     {
-      "name": "Singapore 2",
+      "name": "Singapore Server 2",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/configs/sg2.ovpn",
-      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us.png",
+      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/flags/sg.png",
       "username": "vpnbook",
       "password": "e83zu76"
     },
     {
-      "name": "canada 1",
+      "name": "Netherlands Server 1",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/configs/nl1.ovpn",
-      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us.png",
+      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/flags/nl.png",
       "username": "vpnbook",
       "password": "e83zu76"
     },
     {
-      "name": "canada 2",
+      "name": "Netherlands Server 2",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/configs/nl2.ovpn",
-      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us.png",
+      "icon_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/flags/nl.png",
       "username": "vpnbook",
       "password": "e83zu76"
     }
