@@ -1,5 +1,17 @@
 {
   "vpn_servers": [
+     {
+      "name": "france 1 🇫🇷",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr1.ovpn",
+      "username": "vpnbook",
+      "password": "e83zu76"
+    },
+    {
+      "name": "france 2 🇫🇷",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr2.ovpn",
+      "username": "vpnbook",
+      "password": "e83zu76"
+    },
     {
       "name": "united states 1 🇺🇲",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us1.ovpn",
@@ -62,4 +74,4 @@
       "password": "e83zu76"
     }
   ]
-} 
+}
