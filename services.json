@@ -75,7 +75,7 @@
   ],
   "tunnel_servers": [
     {
-      "name": "Singapore SSH/SSL",
+      "name": "france 1 🇫🇷",
       "host": "ssh-nl1.sshkit.org",
       "ssh_port": "442",
       "ssl_port": "8443",
@@ -85,7 +85,7 @@
       "sni": "web.whatsapp.com"
     },
     {
-      "name": "Singapore SSH/SSL",
+      "name": "france 1 🇫🇷",
       "host": "ssh-nl1.sshkit.org",
       "ssh_port": "442",
       "ssl_port": "8443",
@@ -95,7 +95,7 @@
       "sni": "web.whatsapp.com"
     },
     {
-      "name": "Singapore SSH/SSL",
+      "name": "france 1 🇫🇷",
       "host": "ssh-nl1.sshkit.org",
       "ssh_port": "442",
       "ssl_port": "8443",
@@ -105,7 +105,7 @@
       "sni": "web.whatsapp.com"
     },
     {
-      "name": "Singapore SSH/SSL",
+      "name": "france 1 🇫🇷",
       "host": "ssh-nl1.sshkit.org",
       "ssh_port": "442",
       "ssl_port": "8443",
@@ -115,7 +115,7 @@
       "sni": "web.whatsapp.com"
     },
     {
-      "name": "Singapore SSH/SSL",
+      "name": "france 1 🇫🇷",
       "host": "ssh-nl1.sshkit.org",
       "ssh_port": "442",
       "ssl_port": "8443",
@@ -125,7 +125,7 @@
       "sni": "web.whatsapp.com"
     },
     {
-      "name": "Singapore SSH/SSL",
+      "name": "france 1 🇫🇷",
       "host": "ssh-nl1.sshkit.org",
       "ssh_port": "442",
       "ssl_port": "8443",
