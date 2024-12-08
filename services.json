@@ -1,77 +1,150 @@
 {
-  "vpn_servers": [
-     {
+  "openvpn_servers": [
+    {
       "name": "france 1 🇫🇷",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr1.ovpn",
+      "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr1.ovpn",
       "username": "vpnbook",
-      "password": "e83zu76"
+      "password": "e83zu78"
     },
     {
       "name": "france 2 🇫🇷",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr2.ovpn",
+      "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr2.ovpn",
       "username": "vpnbook",
-      "password": "e83zu76"
+      "password": "e83zu78"
     },
     {
       "name": "united states 1 🇺🇲",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us1.ovpn",
+      "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us1.ovpn",
       "username": "vpnbook",
-      "password": "e83zu76"
+      "password": "e83zu78"
     },
     {
       "name": "united states 2 🇺🇲",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us2.ovpn",
+      "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us2.ovpn",
       "username": "vpnbook",
-      "password": "e83zu76"
+      "password": "e83zu78"
     },
     {
       "name": "germany 1 🇩🇪",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
+      "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
       "username": "vpnbook",
-      "password": "e83zu76"
+      "password": "e83zu78"
     },
     {
       "name": "germany 2 🇩🇪",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de2.ovpn",
+      "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de2.ovpn",
       "username": "vpnbook",
-      "password": "e83zu76"
+      "password": "e83zu78"
     },
     {
       "name": "united kingdom 1 🇬🇧",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk1.ovpn",
+      "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk1.ovpn",
       "username": "vpnbook",
-      "password": "e83zu76"
+      "password": "e83zu78"
     },
     {
       "name": "united kingdom 2 🇬🇧",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk2.ovpn",
+      "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk2.ovpn",
       "username": "vpnbook",
-      "password": "e83zu76"
+      "password": "e83zu78"
     },
     {
       "name": "poland 1 🇵🇱",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/pl1.ovpn",
+      "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/pl1.ovpn",
       "username": "vpnbook",
-      "password": "e83zu76"
+      "password": "e83zu78"
     },
     {
       "name": "poland 2 🇵🇱",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/pl2.ovpn",
+      "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/cpl2.ovpn",
       "username": "vpnbook",
-      "password": "e83zu76"
+      "password": "e83zu78"
     },
-   
     {
       "name": "canada 1 🇨🇦",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca1.ovpn",
+      "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca1.ovpn",
       "username": "vpnbook",
-      "password": "e83zu76"
+      "password": "e83zu78"
     },
     {
       "name": "canada 2 🇨🇦",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca2.ovpn",
+      "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca2.ovpn",
       "username": "vpnbook",
-      "password": "e83zu76"
+      "password": "e83zu78"
+    }
+  ],
+  "tunnel_servers": [
+    {
+      "name": "Singapore SSH/SSL",
+      "country": "Singapore",
+      "flag": "sg.png",
+      "host": "ssh-nl1.sshkit.org",
+      "ssh_port": "442",
+      "ssl_port": "8443",
+      "username": "sshkit-5231065783",
+      "password": "1234",
+      "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]",
+      "sni": "web.whatssap.com"
+    },
+    {
+       "name": "Singapore SSH/SSL",
+      "country": "Singapore",
+      "flag": "sg.png",
+      "host": "ssh-nl1.sshkit.org",
+      "ssh_port": "442",
+      "ssl_port": "8443",
+      "username": "sshkit-5231065783",
+      "password": "1234",
+      "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]",
+      "sni": "web.whatssap.com"
+    },
+    {
+       "name": "Singapore SSH/SSL",
+      "country": "Singapore",
+      "flag": "sg.png",
+      "host": "ssh-nl1.sshkit.org",
+      "ssh_port": "442",
+      "ssl_port": "8443",
+      "username": "sshkit-5231065783",
+      "password": "1234",
+      "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]",
+      "sni": "web.whatssap.com"
+    },
+    {
+       "name": "Singapore SSH/SSL",
+      "country": "Singapore",
+      "flag": "sg.png",
+      "host": "ssh-nl1.sshkit.org",
+      "ssh_port": "442",
+      "ssl_port": "8443",
+      "username": "sshkit-5231065783",
+      "password": "1234",
+      "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]",
+      "sni": "web.whatssap.com"
+    },
+    {
+       "name": "Singapore SSH/SSL",
+      "country": "Singapore",
+      "flag": "sg.png",
+      "host": "ssh-nl1.sshkit.org",
+      "ssh_port": "442",
+      "ssl_port": "8443",
+      "username": "sshkit-5231065783",
+      "password": "1234",
+      "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]",
+      "sni": "web.whatssap.com"
+    },
+    {
+       "name": "Singapore SSH/SSL",
+      "country": "Singapore",
+      "flag": "sg.png",
+      "host": "ssh-nl1.sshkit.org",
+      "ssh_port": "442",
+      "ssl_port": "8443",
+      "username": "sshkit-5231065783",
+      "password": "1234",
+      "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]",
+      "sni": "web.whatssap.com"
     }
   ]
 }
