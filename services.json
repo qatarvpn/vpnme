@@ -2,72 +2,84 @@
   "openvpn_servers": [
     {
       "name": "france 1 🇫🇷",
+      "type": "openvpn",
       "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr1.ovpn",
       "username": "vpnbook",
       "password": "e83zu78"
     },
     {
       "name": "france 2 🇫🇷",
+      "type": "openvpn",
       "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr2.ovpn",
       "username": "vpnbook",
       "password": "e83zu78"
     },
     {
       "name": "united states 1 🇺🇲",
+      "type": "openvpn",
       "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us1.ovpn",
       "username": "vpnbook",
       "password": "e83zu78"
     },
     {
       "name": "united states 2 🇺🇲",
+      "type": "openvpn",
       "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us2.ovpn",
       "username": "vpnbook",
       "password": "e83zu78"
     },
     {
       "name": "germany 1 🇩🇪",
+      "type": "openvpn",
       "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
       "username": "vpnbook",
       "password": "e83zu78"
     },
     {
       "name": "germany 2 🇩🇪",
+      "type": "openvpn",
       "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de2.ovpn",
       "username": "vpnbook",
       "password": "e83zu78"
     },
     {
       "name": "united kingdom 1 🇬🇧",
+      "type": "openvpn",
       "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk1.ovpn",
       "username": "vpnbook",
       "password": "e83zu78"
     },
     {
       "name": "united kingdom 2 🇬🇧",
+      "type": "openvpn",
       "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk2.ovpn",
       "username": "vpnbook",
       "password": "e83zu78"
     },
     {
       "name": "poland 1 🇵🇱",
+      "type": "openvpn",
       "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/pl1.ovpn",
       "username": "vpnbook",
       "password": "e83zu78"
     },
     {
       "name": "poland 2 🇵🇱",
+      "type": "openvpn",
       "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/cpl2.ovpn",
       "username": "vpnbook",
       "password": "e83zu78"
     },
     {
       "name": "canada 1 🇨🇦",
+      "type": "openvpn",
       "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca1.ovpn",
       "username": "vpnbook",
       "password": "e83zu78"
     },
     {
       "name": "canada 2 🇨🇦",
+      "type": "openvpn",
       "config": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca2.ovpn",
       "username": "vpnbook",
       "password": "e83zu78"
@@ -76,57 +88,57 @@
   "tunnel_servers": [
     {
       "name": "ssh/ssl france 1 🇫🇷",
+      "type": "ssh",
       "host": "ssh-nl1.sshkit.org",
       "ssh_port": "442",
       "username": "sshkit-5231065783",
       "password": "1234",
-      "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]",
-    
+      "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]"
     },
     {
-      "name": "ssh/ssl france 1 🇫🇷",
+      "name": "ssh/ssl france 2 🇫🇷",
+      "type": "ssh",
       "host": "ssh-nl1.sshkit.org",
       "ssh_port": "442",
       "username": "sshkit-5231065783",
       "password": "1234",
-      "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]",
-
+      "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]"
     },
     {
-      "name": "ssh/ssl france 1 🇫🇷",
+      "name": "ssh/ssl france 3 🇫🇷",
+      "type": "ssh",
       "host": "ssh-nl1.sshkit.org",
       "ssh_port": "442",
       "username": "sshkit-5231065783",
       "password": "1234",
-      "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]",
- 
+      "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]"
     },
     {
-      "name": "ssh/ssl france 1 🇫🇷",
+      "name": "ssh/ssl france 4 🇫🇷",
+      "type": "ssh",
       "host": "ssh-nl1.sshkit.org",
       "ssh_port": "442",
       "username": "sshkit-5231065783",
       "password": "1234",
-      "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]",
- 
+      "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]"
     },
     {
-      "name": "ssh/ssl france 1 🇫🇷",
+      "name": "ssh/ssl france 5 🇫🇷",
+      "type": "ssh",
       "host": "ssh-nl1.sshkit.org",
       "ssh_port": "442",
       "username": "sshkit-5231065783",
       "password": "1234",
-      "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]",
-  
+      "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]"
     },
     {
-      "name": "ssh/ssl france 1 🇫🇷",
+      "name": "ssh/ssl france 6 🇫🇷",
+      "type": "ssh",
       "host": "ssh-nl1.sshkit.org",
       "ssh_port": "442",
       "username": "sshkit-5231065783",
       "password": "1234",
-      "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]",
-
+      "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]"
     }
   ]
 }
