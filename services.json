@@ -78,61 +78,55 @@
       "name": "ssh/ssl france 1 🇫🇷",
       "host": "ssh-nl1.sshkit.org",
       "ssh_port": "442",
-      "ssl_port": "8443",
       "username": "sshkit-5231065783",
       "password": "1234",
       "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]",
-      "sni": "web.whatsapp.com"
+    
     },
     {
       "name": "ssh/ssl france 1 🇫🇷",
       "host": "ssh-nl1.sshkit.org",
       "ssh_port": "442",
-      "ssl_port": "8443",
       "username": "sshkit-5231065783",
       "password": "1234",
       "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]",
-      "sni": "web.whatsapp.com"
+
     },
     {
       "name": "ssh/ssl france 1 🇫🇷",
       "host": "ssh-nl1.sshkit.org",
       "ssh_port": "442",
-      "ssl_port": "8443",
       "username": "sshkit-5231065783",
       "password": "1234",
       "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]",
-      "sni": "web.whatsapp.com"
+ 
     },
     {
       "name": "ssh/ssl france 1 🇫🇷",
       "host": "ssh-nl1.sshkit.org",
       "ssh_port": "442",
-      "ssl_port": "8443",
       "username": "sshkit-5231065783",
       "password": "1234",
       "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]",
-      "sni": "web.whatsapp.com"
+ 
     },
     {
       "name": "ssh/ssl france 1 🇫🇷",
       "host": "ssh-nl1.sshkit.org",
       "ssh_port": "442",
-      "ssl_port": "8443",
       "username": "sshkit-5231065783",
       "password": "1234",
       "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]",
-      "sni": "web.whatsapp.com"
+  
     },
     {
       "name": "ssh/ssl france 1 🇫🇷",
       "host": "ssh-nl1.sshkit.org",
       "ssh_port": "442",
-      "ssl_port": "8443",
       "username": "sshkit-5231065783",
       "password": "1234",
       "payload": "HEAD [host_port] [protocol][crlf]Host: web.whatsapp.com[crlf][crlf]",
-      "sni": "web.whatsapp.com"
+
     }
   ]
 }
