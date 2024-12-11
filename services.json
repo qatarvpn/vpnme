@@ -74,9 +74,15 @@
     },
     {
       "name": "netherlands 1 🇳🇱",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/NL1.ovpn",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/nl1.ovpn",
       "username": "freeopenvpn",
-      "password": "296280557"
+      "password": "241320779"
+    },
+    {
+      "name": "italy 1 🇮🇹",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/it1.ovpn",
+      "username": "racevpn.com-Gtmo44t",
+      "password": "mo1234"
     }
   ]
 }
