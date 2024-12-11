@@ -81,13 +81,14 @@
     {
       "name": "italy 1 🇮🇹",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/it1.ovpn",
-      "username": "racevpn.com-momoit1",
+      "username": "racevpn.com-Gtmo44t",
       "password": "mo1234"
     },
     {
-      "name": "Singapore 1 🇸🇬",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/UK_freeopenvpn_udp.ovpn.ovpn",
+      "name": "singapore 1 🇸🇬",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/sg1.ovpn",
       "username": "racevpn.com-momosg1",
       "password": "mo1234"
-    },
+    }
+  ]
 }
