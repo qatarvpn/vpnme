@@ -83,9 +83,9 @@
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/it1.ovpn",
       "username": "racevpn.com-momoit1",
       "password": "mo1234"
-    }
-     {
-      "name": "Singapore 1 🇮🇹",
+    },
+    {
+      "name": "Singapore 1 🇸🇬",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/nlo-1.optnl.com-tcp-80.ovpn",
       "username": "racevpn.com-momosg1",
       "password": "mo1234"
