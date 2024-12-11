@@ -92,7 +92,7 @@
     },
     {
       "name": "Singapore 2 🇸🇬",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/sg2.ovpn",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/UK_freeopenvpn_udp.ovpn",
       "username": "racevpn.com-momosg1",
       "password": "mo1234"
     }
