@@ -2,18 +2,12 @@
   "vpn_servers": [
     {
       "name": "France 1 🇫🇷",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/FRRC.ovpn",
-      "username": "racevpn.com-moumoufr5",
-      "password": "mo1234"
-    },
-    {
-      "name": "France 2 🇫🇷",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr1.ovpn",
       "username": "vpnbook",
       "password": "hu86c9k"
     },
     {
-      "name": "France 3 🇫🇷",
+      "name": "France 2 🇫🇷",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr2.ovpn",
       "username": "vpnbook",
       "password": "hu86c9k"
@@ -32,18 +26,12 @@
     },
     {
       "name": "Germany 1 🇩🇪",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/DERC.ovpn",
-      "username": "racevpn.com-moumou7jD",
-      "password": "mo1234"
-    },
-    {
-      "name": "Germany 2 🇩🇪",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
       "username": "vpnbook",
       "password": "hu86c9k"
     },
     {
-      "name": "Germany 3 🇩🇪",
+      "name": "Germany 2 🇩🇪",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de2.ovpn",
       "username": "vpnbook",
       "password": "hu86c9k"
