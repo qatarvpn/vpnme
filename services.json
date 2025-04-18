@@ -74,12 +74,6 @@
     },
     {
       "name": "BELGIUM 1 🇧🇪",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/be1.ovpn",
-      "username": "vpnbook",
-      "password": "huba7re"
-    },
-    {
-      "name": "BELGIUM 2 🇧🇪",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/jp1.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
