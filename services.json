@@ -13,6 +13,12 @@
       "password": "huba7re"
     },
     {
+      "name": "FRANCE 3 🇫🇷",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ExpreesVpn-UDP.ovpn",
+      "username": "vpnbook",
+      "password": "huba7re"
+    },
+    {
       "name": "UNITED STATES 1 🇺🇲",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us1.ovpn",
       "username": "vpnbook",
