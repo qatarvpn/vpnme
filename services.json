@@ -66,6 +66,12 @@
       "username": "vpnbook",
       "password": "huba7re"
     },
+   {
+      "name": "POLAND 3 🇵🇱",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/tcp-80.ovpn",
+      "username": "vpnbook",
+      "password": "huba7re"
+    },
     {
       "name": "CANADA 1 🇨🇦",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca1.ovpn",
