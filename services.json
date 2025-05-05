@@ -101,6 +101,12 @@
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/singapore_racevpn.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
+    },
+    {
+      "name": "INDIA 1 🇮🇳",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/india1.ovpn",
+      "username": "vpnbook",
+      "password": "huba7re"
     }
   ]
 }
