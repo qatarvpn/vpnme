@@ -1,4 +1,4 @@
- {
+{
   "vpn_servers": [
     {
       "name": "FRANCE 1 🇫🇷",
@@ -27,6 +27,12 @@
     {
       "name": "UNITED STATES 2 🇺🇲",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us2.ovpn",
+      "username": "vpnbook",
+      "password": "huba7re"
+    },
+    {
+      "name": "UNITED STATES 3 🇺🇲",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us1.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
     },
@@ -66,7 +72,7 @@
       "username": "vpnbook",
       "password": "huba7re"
     },
-   {
+    {
       "name": "POLAND 3 🇵🇱",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/tcp-80.ovpn",
       "username": "vpnbook",
@@ -87,6 +93,12 @@
     {
       "name": "NETHERLANDS 1 🇳🇱",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/DERC.ovpn",
+      "username": "vpnbook",
+      "password": "huba7re"
+    },
+    {
+      "name": "SINGAPORE 1 🇸🇬",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/singapore_racevpn.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
     }
