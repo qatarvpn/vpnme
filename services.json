@@ -42,14 +42,20 @@
       "username": "vpnbook",
       "password": "huba7re"
     },
-    {
+     {
       "name": "GERMANY 1 🇩🇪",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/sshstores-desr2bt-udp.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
     },
     {
       "name": "GERMANY 2 🇩🇪",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
+      "username": "vpnbook",
+      "password": "huba7re"
+    },
+    {
+      "name": "GERMANY 3 🇩🇪",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de2.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
