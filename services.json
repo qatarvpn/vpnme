@@ -48,6 +48,12 @@
       "username": "vpnbook",
       "password": "huba7re"
     },
+    {
+      "name": "UNITED STATES 5 🇺🇲",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/sshstores-usasr4bt-udp.ovpn",
+      "username": "vpnbook",
+      "password": "huba7re"
+    },
      {
       "name": "SINGAPORE 1 🇸🇬",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/singapore_racevpn.ovpn",
