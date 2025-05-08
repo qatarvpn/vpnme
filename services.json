@@ -1,8 +1,7 @@
-
 {
   "vpn_servers": [
     {
-      "name": "FRANCE 1 🇫🇷  📶",
+      "name": "FRANCE 1 🇫🇷 🚀",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ExpreesVpn-UDP.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
@@ -26,7 +25,7 @@
       "password": "huba7re"
     },
     {
-      "name": "UNITED STATES 1 🇺🇲  📶",
+      "name": "UNITED STATES 1 🇺🇲 🚀",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/nlo-1.optnl.com-tcp-80.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
@@ -56,7 +55,7 @@
       "password": "huba7re"
     },
     {
-      "name": "SINGAPORE 1 🇸🇬  📶",
+      "name": "SINGAPORE 1 🇸🇬 🚀",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/singapore_racevpn.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
@@ -80,7 +79,7 @@
       "password": "huba7re"
     },
     {
-      "name": "NETHERLANDS 1 🇳🇱  📶",
+      "name": "NETHERLANDS 1 🇳🇱 🚀",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/DERC.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
@@ -104,7 +103,7 @@
       "password": "huba7re"
     },
     {
-      "name": "POLAND 1 🇵🇱  📶",
+      "name": "POLAND 1 🇵🇱 🚀",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/tcp-80.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
@@ -134,19 +133,19 @@
       "password": "huba7re"
     },
     {
-      "name": "INDIA 1 🇮🇳  📶",
+      "name": "INDIA 1 🇮🇳 🚀",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/it1.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
     },
     {
-      "name": "INDIA 2 🇮🇳  📶",
+      "name": "INDIA 2 🇮🇳 🚀",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/india_racevpn.ovpn",
       "username": "racevpn.com-Indrcvpn2",
       "password": "mo1234"
     },
     {
-      "name": "KAZAKHSTAN 1 🇰🇿  📶",
+      "name": "KAZAKHSTAN 1 🇰🇿 🚀",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ske.ovpn",
       "username": "racevpn.com-moumouD4s",
       "password": "mo1234"
