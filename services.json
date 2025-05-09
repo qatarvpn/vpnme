@@ -25,6 +25,12 @@
       "password": "huba7re"
     },
     {
+      "name": "ITALY 1 🇮🇹 🚀",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/italy_racevpn1.ovpn",
+      "username": "racevpn.com-Itwts43g",
+      "password": "mo1234"
+    },
+    {
       "name": "UNITED STATES 1 🇺🇲 🚀",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/nlo-1.optnl.com-tcp-80.ovpn",
       "username": "vpnbook",
