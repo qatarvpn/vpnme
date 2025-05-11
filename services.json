@@ -32,24 +32,18 @@
     },
     {
       "name": "UNITED STATES 2 🇺🇲  📶",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/usa77.ovpn",
-      "username": "opentunnel.net-at4gmoy",
-      "password": "mo1234"
-    },
-    {
-      "name": "UNITED STATES 3 🇺🇲  📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us2.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
     },
     {
-      "name": "UNITED STATES 4 🇺🇲  📶",
+      "name": "UNITED STATES 3 🇺🇲  📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us1.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
     },
     {
-      "name": "UNITED STATES 5 🇺🇲  📶",
+      "name": "UNITED STATES 4 🇺🇲  📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/sshstores-usasr4bt-udp.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
@@ -128,12 +122,18 @@
     },
     {
       "name": "CANADA 2 🇨🇦  📶",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uae.ovpn",
+      "username": "opentunnel.net-at4gmoy56",
+      "password": "mo1234"
+    },
+    {
+      "name": "CANADA 3 🇨🇦  📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca1.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
     },
     {
-      "name": "CANADA 3 🇨🇦  📶",
+      "name": "CANADA 4 🇨🇦  📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca2.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
