@@ -54,6 +54,12 @@
       "username": "racevpn.com-moumouD4n",
       "password": "mo1234"
     },
+     {
+      "name": "ITALY 🇮🇹 📶",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnwg/refs/heads/main/netherlands_racevpn.ovpn",
+      "username": "racevpn.com-itl55mo",
+      "password": "mo1234"
+    },
     {
       "name": "UNITED KINGDOM 🇬🇧 📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk3race.ovpn",
