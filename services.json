@@ -1,12 +1,6 @@
 {
   "vpn_servers": [
     {
-      "name": "FRANCE 🇫🇷 🚀",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnwg/refs/heads/main/sshstores-frs3mo-udp.ovpn",
-      "username": "racevpn.com-nl54freb",
-      "password": "mo1234"
-    },
-    {
       "name": "FRANCE 🇫🇷 📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr2.ovpn",
       "username": "vpnbook",
@@ -19,16 +13,10 @@
       "password": "huba7re"
     },
     {
-      "name": "AUSTRALIA 🇦🇺 🚀",
+      "name": "AUSTRALIA 🇦🇺 📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/australia_racevpn.ovpn",
       "username": "racevpn.com-Itwts43gm",
       "password": "mo1234"
-    },
-    {
-      "name": "UNITED STATES 🇺🇲 🚀",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnwg/refs/heads/main/sshstores-usa45mp-udp.ovpn",
-      "username": "vpnbook",
-      "password": "huba7re"
     },
     {
       "name": "UNITED STATES 🇺🇲 📶",
@@ -43,20 +31,8 @@
       "password": "huba7re"
     },
     {
-      "name": "SINGAPORE 🇸🇬 🚀",
+      "name": "SINGAPORE 🇸🇬 📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/singapore_racevpn.ovpn",
-      "username": "vpnbook",
-      "password": "huba7re"
-    },
-    {
-      "name": "SINGAPORE 🇸🇬 🚀",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnwg/refs/heads/main/sshocean-sgp45m_sg-udp.ovpn",
-      "username": "vpnbook",
-      "password": "huba7re"
-    },
-    {
-      "name": "GERMANY 🇩🇪 📶",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/sshstores-desr2bt-udp.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
     },
@@ -73,21 +49,9 @@
       "password": "huba7re"
     },
     {
-      "name": "GERMANY 🇩🇪 🚀",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnwg/refs/heads/main/sshstores-desr2mo-udp.ovpn",
-      "username": "vpnbook",
-      "password": "huba7re"
-    },
-    {
-      "name": "NETHERLANDS 🇳🇱 🚀",
+      "name": "NETHERLANDS 🇳🇱 📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnwg/refs/heads/main/netherlands_racevpn.ovpn",
       "username": "racevpn.com-moumouD4n",
-      "password": "mo1234"
-    },
-    {
-      "name": "UNITED KINGDOM 🇬🇧 🚀",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/sshstores-bgmon1d-udp.ovpn",
-      "username": "racevpn.com-uk07ssfre",
       "password": "mo1234"
     },
     {
@@ -103,7 +67,7 @@
       "password": "huba7re"
     },
     {
-      "name": "POLAND 🇵🇱 🚀",
+      "name": "POLAND 🇵🇱 📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/pl2.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
@@ -133,19 +97,13 @@
       "password": "huba7re"
     },
     {
-      "name": "INDIA 🇮🇳 🚀",
+      "name": "INDIA 🇮🇳 📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnwg/refs/heads/main/india_racevpn.ovpn",
       "username": "racevpn.com-indfre45m",
       "password": "mo1234"
     },
     {
-      "name": "INDIA 🇮🇳 🚀",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnwg/refs/heads/main/sshocean-india45m_in-udp.ovpn",
-      "username": "racevpn.com-Indrcvpn2",
-      "password": "mo1234"
-    },
-    {
-      "name": "KAZAKHSTAN 🇰🇿 🚀",
+      "name": "KAZAKHSTAN 🇰🇿 📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnwg/refs/heads/main/kz_racevpn.ovpn",
       "username": "racevpn.com-kwzs4mo",
       "password": "mo1234"
