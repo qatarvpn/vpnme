@@ -30,6 +30,12 @@
       "username": "vpnbook",
       "password": "huba7re"
     },
+     {
+      "name": "GERMANY 🇩🇪 📶",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de3.ovpn",
+      "username": "racevpn.com-ger55mo",
+      "password": "mo1234"
+    },
     {
       "name": "GERMANY 🇩🇪 📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
