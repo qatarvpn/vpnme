@@ -13,12 +13,6 @@
       "password": "huba7re"
     },
     {
-      "name": "AUSTRALIA 🇦🇺 📶",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/australia_racevpn.ovpn",
-      "username": "racevpn.com-Itwts43gm",
-      "password": "mo1234"
-    },
-    {
       "name": "UNITED STATES 🇺🇲 📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us2.ovpn",
       "username": "vpnbook",
