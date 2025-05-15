@@ -1,7 +1,7 @@
 {
   "vpn_servers": [
     {
-      "name": "FRANCE  🇫🇷 📶",
+      "name": "FRANCE 1  🇫🇷 📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr2.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
