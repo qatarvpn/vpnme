@@ -97,6 +97,12 @@
       "password": "mo1234"
     },
     {
+      "name": "INDIA 🇮🇳 📶",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnwg/refs/heads/main/ind2.ovpn",
+      "username": "racevpn.com-indfre45md",
+      "password": "mo1234"
+    },
+    {
       "name": "KAZAKHSTAN 🇰🇿 📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnwg/refs/heads/main/kz_racevpn.ovpn",
       "username": "racevpn.com-sgp47mp",
