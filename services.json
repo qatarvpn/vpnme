@@ -48,6 +48,12 @@
       "username": "racevpn.com-nl6mo",
       "password": "mo1234"
     },
+     {
+      "name": "UNITED KINGDOM 🇬🇧 📶",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/FRRC.ovpn",
+      "username": "racevpn.com-london8mp",
+      "password": "mo1234"
+    },
     {
       "name": "UNITED KINGDOM 🇬🇧 📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk3race.ovpn",
