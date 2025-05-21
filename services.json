@@ -1,5 +1,11 @@
 {
   "vpn_servers": [
+     {
+      "name": "FRANCE 🇫🇷 📶",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/3fr.ovpn",
+      "username": "vpnbook",
+      "password": "huba7re"
+    },
     {
       "name": "FRANCE 🇫🇷 📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr2.ovpn",
@@ -9,6 +15,12 @@
     {
       "name": "FRANCE 🇫🇷  📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr1.ovpn",
+      "username": "vpnbook",
+      "password": "huba7re"
+    },
+    {
+      "name": "UNITED STATES 🇺🇲 📶",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/3us.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
     },
@@ -86,6 +98,13 @@
     },
     {
       "name": "CANADA 🇨🇦 📶",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/2cnd.ovpn",
+      "username": "opentunnel.net-at4gmoy56",
+      "password": "mo1234"
+    },
+    {
+    {
+      "name": "CANADA 🇨🇦 📶",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uae.ovpn",
       "username": "opentunnel.net-at4gmoy56",
       "password": "mo1234"
@@ -104,7 +123,7 @@
     },
     {
       "name": "INDIA 🇮🇳 📶",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnwg/refs/heads/main/india_racevpn.ovpn",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnwg/refs/heads/main/3ind.ovpn",
       "username": "racevpn.com-indfre45md",
       "password": "mo1234"
     },
