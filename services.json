@@ -38,12 +38,6 @@
     },
     {
       "name": "GERMANY 🇩🇪",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ExpreesVpn-UDP.ovpn",
-      "username": "vpnbook",
-      "password": "cf32e5w"
-    },
-    {
-      "name": "GERMANY 🇩🇪",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
       "username": "vpnbook",
       "password": "cf32e5w"
