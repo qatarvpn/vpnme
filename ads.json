@@ -1,0 +1,10 @@
+{
+  "ads": [
+    {
+      "id": 1,
+      "image_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/adsgx.png",
+      "target_url": "https://play.google.com/store/apps/details?id=com.developerrajnagor.maniavpnmm",
+      "is_active": true
+    }
+  ]
+}
