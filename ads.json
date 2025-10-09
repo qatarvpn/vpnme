@@ -4,7 +4,7 @@
       "id": 1,
       "image_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/UPDATEQR.jpg",
       "target_url": "https://play.google.com/store/apps/details?id=com.developerrajnagor.qrvppnnew",
-      "is_active": true
+      "is_active": false
     }
   ]
 }
