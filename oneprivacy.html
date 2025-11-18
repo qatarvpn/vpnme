@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Privacy Policy — one vpn</title>
+  <style>
+    :root {
+      --bg-dark: #2B3446;
+      --bg-top: #293043;
+      --bg-bottom: #353B53;
+      --text: #FFFFFF;
+      --text-muted: #8A9BA8;
+      --primary: #007AFF;
+      --cyan: #5AC8FA;
+      --green: #34C759;
+      --card: #263347;
+    }
+
+    html, body {
+      height: 100%;
+      margin: 0;
+      font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+      color: var(--text);
+      background: linear-gradient(180deg, var(--bg-top), var(--bg-bottom));
+      overflow-x: hidden;
+      min-height: 100vh;
+    }
+
+    /* Subtle animated gradient veil */
+    .back-veil {
+      position: fixed;
+      inset: 0;
+      background: radial-gradient(1200px 600px at 20% -10%, rgba(90,200,250,0.18), transparent 60%),
+                  radial-gradient(1000px 600px at 110% 10%, rgba(0,122,255,0.16), transparent 60%),
+                  radial-gradient(900px 500px at 50% 120%, rgba(52,199,89,0.12), transparent 60%);
+      filter: blur(28px);
+      pointer-events: none;
+      animation: floatVeil 12s ease-in-out infinite alternate;
+    }
+    @keyframes floatVeil {
+      0%   { transform: translateY(0px) translateX(0); }
+      50%  { transform: translateY(-18px) translateX(10px); }
+      100% { transform: translateY(0px) translateX(0); }
+    }
+
+    /* Decorative animated wave band */
+    .top-wave {
+      position: fixed;
+      top: -60px;
+      left: -10%;
+      width: 120%;
+      height: 160px;
+      background: linear-gradient(90deg, rgba(0,122,255,0.25), rgba(90,200,250,0.25), rgba(52,199,89,0.20));
+      filter: blur(18px);
+      opacity: 0.6;
+      transform: rotate(-3deg);
+      animation: waveSlide 10s linear infinite;
+      pointer-events: none;
+      z-index: 0;
+    }
+    @keyframes waveSlide {
+      from { background-position: 0 0; }
+      to   { background-position: 400% 0; }
+    }
+
+    /* Floating glowing orbs */
+    .orbs { position: fixed; inset: 0; pointer-events: none; z-index: 0; }
+    .orbs span {
+      position: absolute;
+      display: block;
+      width: 160px; height: 160px;
+      border-radius: 999px;
+      background: radial-gradient(circle at 30% 30%, rgba(90,200,250,0.35), rgba(0,0,0,0));
+      filter: blur(10px);
+      animation: floatOrb 18s ease-in-out infinite;
+      opacity: 0.35;
+    }
+    .orbs span:nth-child(1) { top: 12%; left: 6%; animation-delay: 0s; }
+    .orbs span:nth-child(2) { top: 70%; left: 80%; animation-delay: 4s; background: radial-gradient(circle at 30% 30%, rgba(0,122,255,0.35), rgba(0,0,0,0)); }
+    .orbs span:nth-child(3) { top: 40%; left: -4%; animation-delay: 8s; background: radial-gradient(circle at 30% 30%, rgba(52,199,89,0.30), rgba(0,0,0,0)); }
+    @keyframes floatOrb {
+      0%   { transform: translate3d(0,0,0) scale(1); }
+      50%  { transform: translate3d(20px,-16px,0) scale(1.08); }
+      100% { transform: translate3d(0,0,0) scale(1); }
+    }
+
+    .container {
+      position: relative;
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 24px 18px 56px 18px;
+      z-index: 1;
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      margin-top: 8px;
+      margin-bottom: 16px;
+    }
+    .app-title {
+      font-weight: 800;
+      letter-spacing: 0.4px;
+      font-size: 24px;
+      text-transform: lowercase;
+      background: linear-gradient(90deg, #EAF8FF, #9BD8FF, #EAF8FF);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      background-size: 200% 100%;
+      animation: titleShine 8s linear infinite;
+    }
+    @keyframes titleShine { from { background-position: 0 0; } to { background-position: 200% 0; } }
+    .badge {
+      font-size: 12px;
+      color: var(--text);
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.12);
+      padding: 6px 10px;
+      border-radius: 999px;
+    }
+
+    .hero {
+      margin-top: 12px;
+      padding: 24px;
+      border-radius: 16px;
+      background: linear-gradient(160deg, rgba(0,122,255,0.12), rgba(90,200,250,0.10));
+      border: 1px solid rgba(255,255,255,0.10);
+      box-shadow: 0 10px 28px rgba(0,0,0,0.25);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero::after {
+      content: "";
+      position: absolute;
+      inset: -40% -20% auto -20%;
+      height: 240px;
+      background: radial-gradient(closest-side, rgba(255,255,255,0.08), transparent);
+      animation: drift 14s ease-in-out infinite;
+      pointer-events: none;
+    }
+    @keyframes drift {
+      0%   { transform: translateX(-12%) translateY(0) rotate(0deg); }
+      50%  { transform: translateX(8%) translateY(-8%) rotate(8deg); }
+      100% { transform: translateX(-12%) translateY(0) rotate(0deg); }
+    }
+
+    h1, h2, h3 {
+      margin: 0 0 8px 0;
+    }
+    h1 {
+      font-size: 28px;
+      letter-spacing: 0.3px;
+    }
+    h2 {
+      font-size: 20px;
+      margin-top: 20px;
+      position: relative;
+      display: inline-block;
+      padding-bottom: 6px;
+      background: linear-gradient(currentColor, currentColor) left bottom/0 2px no-repeat;
+      animation: underlineGrow 1s ease forwards;
+    }
+    @keyframes underlineGrow { to { background-size: 100% 2px; } }
+    p {
+      color: var(--text);
+      opacity: 0.92;
+      line-height: 1.7;
+      margin: 6px 0 14px 0;
+    }
+    .muted { color: var(--text-muted); }
+
+    .card {
+      position: relative;
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 16px;
+      padding: 20px 18px;
+      margin-top: 16px;
+      box-shadow: 0 10px 26px rgba(0,0,0,0.24);
+      backdrop-filter: blur(6px);
+      -webkit-backdrop-filter: blur(6px);
+      overflow: hidden;
+      transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease;
+      border: 1px solid rgba(255,255,255,0.12);
+      display: block;
+    }
+    .card::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      border-radius: 16px;
+      padding: 1px; /* controls border thickness */
+      background: linear-gradient(135deg, rgba(0,122,255,0.35), rgba(90,200,250,0.25), rgba(52,199,89,0.25));
+      -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+      mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+      -webkit-mask-composite: xor; /* Safari */
+              mask-composite: exclude;
+      pointer-events: none;
+      opacity: .35;
+    }
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 16px 36px rgba(0,0,0,0.32);
+    }
+
+    /* Unique keyframe animations per card */
+    @keyframes slideInLeft { from { opacity:0; transform:translateX(-24px); } to { opacity:1; transform:translateX(0); } }
+    @keyframes slideInRight { from { opacity:0; transform:translateX(24px); } to { opacity:1; transform:translateX(0); } }
+    @keyframes fadeScale { from { opacity:0; transform:scale(.92); } to { opacity:1; transform:scale(1); } }
+    @keyframes floatUp { from { opacity:0; transform:translateY(25px); } to { opacity:1; transform:translateY(0); } }
+    @keyframes rotateIn { from { opacity:0; transform:rotate(-4deg) scale(.96); } to { opacity:1; transform:rotate(0) scale(1); } }
+
+    /* Icons for headings */
+    .card h2::before {
+      content: "";
+      display: inline-block;
+      width: 10px; height: 10px;
+      margin-right: 8px;
+      border-radius: 999px;
+      background: linear-gradient(135deg, var(--cyan), var(--primary));
+      box-shadow: 0 0 10px rgba(90,200,250,0.5);
+      vertical-align: middle;
+    }
+
+    /* Responsive card grid (hero stays full width) */
+    @media (min-width: 900px) {
+      .cards-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+      }
+      .cards-grid .card {
+        flex: 1 1 calc(50% - 20px);
+        margin: 0 !important;
+      }
+    }
+
+    ul {
+      margin: 8px 0 8px 18px;
+      padding: 0;
+    }
+    li { margin: 6px 0; line-height: 1.6; }
+
+    .footer {
+      margin-top: 26px;
+      font-size: 13px;
+      color: var(--text-muted);
+      text-align: center;
+      opacity: 0.9;
+    }
+
+    .pill {
+      display: inline-block;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: rgba(90,200,250,0.16);
+      color: #E8F7FF;
+      border: 1px solid rgba(90,200,250,0.36);
+      font-size: 12px;
+      letter-spacing: 0.2px;
+    }
+
+    a { color: var(--cyan); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .kicker {
+      color: var(--text-muted);
+      font-size: 13px;
+      margin-bottom: 4px;
+      letter-spacing: 0.2px;
+    }
+
+    /* Scroll reveal base (stronger) */
+    .reveal {
+      opacity: 0;
+      transform: translateY(45px) scale(.9) rotate(1deg);
+      transition: all .9s cubic-bezier(.22,1,.36,1);
+    }
+    .reveal.visible {
+      opacity: 1;
+      transform: translateY(0) scale(1) rotate(0);
+    }
+  </style>
+</head>
+<body>
+  <div class="back-veil"></div>
+  <div class="top-wave"></div>
+  <div class="orbs"><span></span><span></span><span></span></div>
+  <div class="container">
+    <header>
+      <div class="app-title">one vpn</div>
+      <div class="badge">Privacy by Design</div>
+    </header>
+
+    <section class="hero card">
+      <div class="kicker">Privacy Policy</div>
+      <h1>How we handle your data</h1>
+      <p class="muted">We are committed to protecting your privacy. This policy explains what we collect, how we use it, and the choices you have.</p>
+      <span class="pill">Effective date: <strong><script>document.write(new Date().toISOString().slice(0,10))</script></strong></span>
+    </section>
+
+    <div class="cards-grid">
+      <section class="card">
+        <h2>1. Who we are</h2>
+        <p>one vpn ("we", "our", or "us") provides a virtual private network (VPN) application designed to enhance your online privacy and security.</p>
+      </section>
+
+      <section class="card">
+        <h2>2. Information we collect</h2>
+        <p><strong>No activity logs.</strong> We do not monitor, log, or store your browsing activity, destination IPs, DNS queries, or the content of traffic tunneled through our VPN.</p>
+        <ul>
+          <li><strong>App diagnostics (optional):</strong> crash reports and performance metrics to improve reliability. These do <em>not</em> include your browsing content.</li>
+          <li><strong>Advertising data:</strong> if ads are shown, advertising partners may receive device identifiers strictly to deliver and measure ads. Consent is requested where legally required.</li>
+        </ul>
+      </section>
+
+      <section class="card">
+        <h2>3. Connection metadata</h2>
+        <p>To operate the service, minimal technical data may be processed while a session is active, such as the server region, connection status, and total data transferred. This information is ephemeral and not associated with specific activity or destinations.</p>
+      </section>
+
+      <section class="card">
+        <h2>4. Cookies and local storage</h2>
+        <p>The app itself does not use web cookies. Some third-party SDKs may use local storage or device identifiers for functionality such as advertising frequency capping or analytics, subject to your consent where applicable.</p>
+      </section>
+
+      <section class="card">
+        <h2>5. Advertising and consent</h2>
+        <p>We may show ads using Google Mobile Ads. In regions where consent is required (e.g., the EU/EEA), we use Google’s User Messaging Platform (UMP) to obtain and manage consent. You can change your preferences at any time via the app’s privacy options.</p>
+      </section>
+
+      <section class="card">
+        <h2>6. Third-party services</h2>
+        <ul>
+          <li><strong>Google Mobile Ads (AdMob):</strong> for displaying ads. See Google’s privacy policy for details on data processing.</li>
+          <li><strong>Crash reporting/analytics (if enabled):</strong> used to improve app stability and performance; does not include browsing content.</li>
+        </ul>
+      </section>
+
+      <section class="card">
+        <h2>7. Data security</h2>
+        <p>We use industry-standard measures to protect information. While no system is perfectly secure, we continuously work to safeguard our infrastructure and your privacy.</p>
+      </section>
+
+      <section class="card">
+        <h2>8. Children’s privacy</h2>
+        <p>Our services are not directed to children under 13. If you believe a child has provided us with personal information, please contact us so we can delete it.</p>
+      </section>
+
+      <section class="card">
+        <h2>9. Your rights &amp; choices</h2>
+        <ul>
+          <li><strong>Consent management:</strong> where required, you can give or withdraw consent for advertising data processing.</li>
+          <li><strong>Access, delete, or correct:</strong> contact us to exercise applicable rights under your local laws (e.g., GDPR/CCPA).</li>
+        </ul>
+      </section>
+
+      <section class="card">
+        <h2>10. International transfers</h2>
+        <p>Your data may be processed on servers located in different countries. We take steps to ensure appropriate safeguards are in place when required.</p>
+      </section>
+
+      <section class="card">
+        <h2>11. Changes to this policy</h2>
+        <p>We may update this policy from time to time. We will post any changes here and update the effective date above.</p>
+      </section>
+
+      <section class="card">
+        <h2>12. Contact us</h2>
+        <p>If you have questions or requests about this Privacy Policy, contact us at:
+          <br/>
+          <strong>Email:</strong> <a href="mailto:qatarvpn2022@gmail.com">qatarvpn2022@gmail.com</a>
+        </p>
+      </section>
+    </div>
+
+    <div class="footer">© <script>document.write(new Date().getFullYear())</script> one vpn. All rights reserved.</div>
+  </div>
+
+  <script>
+    // Stronger scroll reveal + unique animations + automatic delay per card
+    document.addEventListener('DOMContentLoaded', function() {
+      const cards = document.querySelectorAll('.cards-grid .card');
+      const anims = ['slideInLeft', 'slideInRight', 'fadeScale', 'floatUp', 'rotateIn'];
+
+      const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            const el = entry.target;
+            const idx = Array.from(cards).indexOf(el);
+            const anim = anims[idx % anims.length];
+
+            el.style.animation = anim + ' .9s cubic-bezier(.22,1,.36,1) both';
+            el.style.transitionDelay = (idx * 0.12) + 's';
+            el.classList.add('visible');
+
+            // Once animated, stop observing
+            observer.unobserve(el);
+          }
+        });
+      }, { threshold: 0.25 });
+
+      cards.forEach(card => {
+        card.classList.add('reveal');
+        observer.observe(card);
+      });
+    });
+  </script>
+</body>
+</html>
