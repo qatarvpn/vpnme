@@ -17,6 +17,10 @@
   "name": "United States 4 🇺🇸",
   "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.9:443#United%20States%20GSL"
 },
+    {
+  "name": "United States 5 🇺🇸",
+  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#United States%20#34105%20/%20OutlineKeys.com"
+},
    
   {
   "name": "Netherlands 1 🇳🇱",
@@ -38,23 +42,19 @@
   "name": "Netherlands 5 🇳🇱",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#Netherlands%20#33669%20/%20OutlineKeys.com"
 },
+  
   {
   "name": "United Kingdom 1 🇬🇧",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.105.33.225:443#United%20Kingdom%20%2335299%20%2F%20OutlineKeys.com"
-},
-  {
-  "name": "United Kingdom 2 🇬🇧",
   "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#United%20Kingdom%20M247"
 },
    {
-  "name": "United Kingdom 3 🇬🇧",
+  "name": "United Kingdom 2 🇬🇧",
   "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#United Kingdom%20#28836%20/%20OutlineKeys.com"
 },
-  {
-  "name": "United Kingdom 4 🇬🇧",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#United Kingdom%20#29337%20/%20OutlineKeys.com"
+   {
+  "name": "United Kingdom 2 🇬🇧",
+  "config": "ss://YWVzLTI1Ni1nY206bGRqbXdvTnFnUXFxYzQzag==@149.102.132.184:80#United Kingdom%20#34126%20/%20OutlineKeys.com"
 },
-  
   {
   "name": "Germany 1 🇩🇪",
   "config": "ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ==@2.58.81.221:80#Germany%20#33931%20/%20OutlineKeys.com"
@@ -64,50 +64,31 @@
   "name": "Germany 2 🇩🇪",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇩🇪[openproxylist.com] ss-DE"
 },
-   
-    {
-  "name": "Germany 3 🇩🇪",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjcyMGY1Yjc5MWE2MGY3@54.37.77.212:11201#Germany%20#33778%20/%20OutlineKeys.com"
-},
-   
- {
+{
   "name": "Italy 1 🇮🇹",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.126.83.158:990#Italy%20#28853%20/%20OutlineKeys.com"
 },
   {
-  "name": "poland 1 🇮🇩",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#Poland%20#28647%20/%20OutlineKeys.com"
-},
- 
- 
-  {
   "name": "Spain 1 🇪🇸",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#Spain%20#25820%20/%20OutlineKeys.com"
+  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.130.203:990#Spain"
 },
-  {
-  "name": "Spain 2 🇪🇸",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyam1LbFVoTkRRM21VZjd1YU9MSlli@194.87.45.189:443#Spain%20#28740%20/%20OutlineKeys.com"
-},
-  
-     {
-  "name": "Portugal 1 🇵🇹",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#Portugal%20#23597%20/%20OutlineKeys.com"
-},
-  
-  {
+ {
     "name": "Finland 1 🇫🇮",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#Finland%20Baxet%20Group%20Incz"
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k=@46.249.109.128:56594#Finland%20#34107%20/%20OutlineKeys.com"
   },
   
   {
   "name": "Ukraine 1 🇺🇦",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#Ukraine%20#22613%20/%20OutlineKeys.com"
+  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#Ukraine%20#34109%20/%20OutlineKeys.com"
 },
       {
   "name": "Russia 1 🇷🇺",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#t.me/OutlineVpnOfficial | Free | 2751 | Russia"
 },
- 
+  {
+  "name": "Kazakhstan 1 🇰🇿",
+  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#Kazakhstan%20#34090%20/%20OutlineKeys.com"
+},
    
    {
   "name": "Estonia 1 🇪🇪",
@@ -117,11 +98,6 @@
   "name": "Czechia 1 🇨🇿",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#🇨🇿CZ-195.181.160.6-1009"
 },
-  {
-  "name": "Hungary 1 🇭🇺",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@91.219.237.163:990#Hungary%20#29533%20/%20OutlineKeys.com"
-},
-  
    {
   "name": "Japan 1 🇯🇵",
   "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#Japan%20Datacamp"
@@ -130,25 +106,21 @@
   "name": "Japan 2 🇯🇵",
   "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#Japan%20Datacamp"
 },
-  {
-  "name": "Japan 3 🇯🇵",
-  "config": "ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#Japan%20#28734%20/%20OutlineKeys.com"
+ 
+   {
+  "name": "South Korea 1 🇰🇷",
+  "config": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#South Korea %20#34175%20/%20OutlineKeys.com"
 },
    {
   "name": "Singapore 1 🇸🇬",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSVFFOUVIU0t4V2ZnTFUwdEhnUnZl@188.166.223.34:32747#t.me/OutlineVpnOfficial | Free | 2965 | Singapore"
+  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.130.203:990#Spain"
 },
    {
   "name": "Singapore 2 🇸🇬",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpadG9FN0Exc2F5bnFzckt3czZsRkM2@165.22.96.186:22461#t.me/OutlineVpnOfficial | Free | 2963 | Singapore"
+  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@156.59.243.6:990#Singapore"
 },
   {
   "name": "Indonesia 1 🇮🇩",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#Indonesia%20#26923%20/%20OutlineKeys.com"
-},
-  
-  {
-  "name": "Indonesia 2 🇮🇩",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.60.171.254:990#t.me/OutlineVpnOfficial | Free | 2733 | Indonesia"
 },
      {
@@ -158,28 +130,18 @@
   
     {
   "name": "Taiwan 1 🇹🇼",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#t.me%2FOutlineVpnOfficial%20%7C%20%282586%29%20%7C%20TW"
+  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@1.161.245.168:50099#Taiwan%20#35344%20/%20OutlineKeys.com"
 },
       {
   "name": "Hong Kong 1 🇭🇰",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#Hong Kong%20#26890%20/%20OutlineKeys.com"
+  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MWQ2NjU1ZDM2MjVmZDE0@185.244.208.150:11201#Hong%20Kong"
 },
+  
   {
   "name": "India 1 🇮🇳",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#India%20#20949%20/%20OutlineKeys.com"
-},
-     {
-  "name": "India 2 🇮🇳",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#India%20#21857%20/%20OutlineKeys.com"
-},
-  {
-  "name": "India 3 🇮🇳",
   "config": "ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#India%20#20945%20/%20OutlineKeys.com"
 },
- {
-  "name": "Qatar 1 🇶🇦",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.2.182:990#🇧🇭[openproxylist.com] ss-BH"
-},
+
   
  {
   "name": "uae 1 🇦🇪",
@@ -195,12 +157,7 @@
   "name": "Nigeria 1 🇳🇬",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.255.123.110:990#t.me/OutlineVpnOfficial | Free | 2741 | Nigeria"
 },
- {
-  "name": "algeria 1 🇩🇿",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@102.207.216.176:990#🇩🇿[openproxylist.com] ss-DZ"
-},
-  
- {
+{
   "name": "Egypt 1 🇪🇬",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.59.107:990#t.me/OutlineVpnOfficial | Free | 2796 | Egypt"
 },
@@ -209,16 +166,7 @@
   "name": "Morocco 1 🇲🇦",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@154.70.207.97:990#t.me/OutlineVpnOfficial | Free | 2773 | Morocco"
 },
-   
-     {
-  "name": "Brazil 1 🇧🇷",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#Brazil%20#23599%20/%20OutlineKeys.com"
-},
-  {
-  "name": "Ecuador 1 🇪🇨",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.171:990#t.me/OutlineVpnOfficial | Free | 2643 | Ecuador"
-},
-  {
+{
   "name": "Argentina 1 🇦🇷",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#Argentina%20#28527%20/%20OutlineKeys.com"
 },
@@ -226,10 +174,6 @@
   {
   "name": "peru 1 🇵🇪",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@138.186.143.32:990#t.me/OutlineVpnOfficial | Free | 2872 | Peru"
-},
-  {
-  "name": "Costa Rica 1 🇨🇷",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#Argentina%20#28527%20/%20OutlineKeys.com"
 },
    {
     "name": "Canada 1 🇨🇦 ",
