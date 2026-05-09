@@ -207,6 +207,11 @@
   "name": "South Africa 1 🇿🇦",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@156.38.168.58:990#t.me/OutlineVpnOfficial | Free | 2766 | South Africa"
 },
+   
+ {
+  "name": "South Africa 2 🇿🇦",
+  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443#South%20Africa"
+},
   
 {
   "name": "Egypt 1 🇪🇬",
@@ -237,6 +242,16 @@
  
    {
     "name": "Canada 2 🇨🇦 ",
-    "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#Canada%20Datacamp"
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@79.127.200.169:990#Canada"
+  }, 
+   
+   {
+    "name": "Canada 3 🇨🇦 ",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.154.204.7:990#Canada"
+  }, 
+   
+   {
+    "name": "Canada 4 🇨🇦 ",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFbXV3Yk94VXc0SVhk@107.172.250.161:59556#Canada"
   }  
 ]
