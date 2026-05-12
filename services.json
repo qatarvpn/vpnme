@@ -1,257 +1,222 @@
-
 [
-   {
-  "name": "United States 1 🇺🇸",
-  "config": "ss://YWVzLTI1Ni1nY206amQ5RlIxMndwcktQTkpIZw==@62.146.171.57:443#United States%20#35161%20/%20OutlineKeys.com"
-},
   {
-  "name": "United States 2 🇺🇸",
-  "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-1087"
-},
-     {
-  "name": "United States 3 🇺🇸",
-  "config": "ss://YWVzLTI1Ni1nY206bUs3ZU4zejI3NlRyMHZWQQ==@154.12.240.141:443#United States%20#33922%20/%20OutlineKeys.com"
-},
-    
-    {
-  "name": "United States 4 🇺🇸",
-  "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.9:443#United%20States%20GSL"
-},
-    {
-  "name": "United States 5 🇺🇸",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#United States%20#34105%20/%20OutlineKeys.com"
-},
-   
-    {
-  "name": "United States 6 🇺🇸",
-  "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#United%20States"
-},
-   
+    "name": "United States 1 🇺🇸",
+    "config": "ss://YWVzLTI1Ni1nY206amQ5RlIxMndwcktQTkpIZw==@62.146.171.57:443"
+  },
   {
-  "name": "Netherlands 1 🇳🇱",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#The%20Netherlands"
-},
-     {
-  "name": "Netherlands 2 🇳🇱",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#Netherlands%20#33926%20/%20OutlineKeys.com"
-},
-     {
-  "name": "Netherlands 3 🇳🇱",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#Netherlands%20#33851%20/%20OutlineKeys.com"
-},
- {
-  "name": "Netherlands 4 🇳🇱",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080#Netherlands%20#33682%20/%20OutlineKeys.com"
-},
-     {
-  "name": "Netherlands 5 🇳🇱",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#Netherlands%20#33669%20/%20OutlineKeys.com"
-},
-  
+    "name": "United States 2 🇺🇸",
+    "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443"
+  },
   {
-  "name": "United Kingdom 1 🇬🇧",
-  "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#United%20Kingdom%20M247"
-},
-   {
-  "name": "United Kingdom 2 🇬🇧",
-  "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#United Kingdom%20#28836%20/%20OutlineKeys.com"
-},
-   {
-  "name": "United Kingdom 3 🇬🇧",
-  "config": "ss://YWVzLTI1Ni1nY206bGRqbXdvTnFnUXFxYzQzag==@149.102.132.184:80#United Kingdom%20#34126%20/%20OutlineKeys.com"
-},
-   
-   {
-  "name": "United Kingdom 4 🇬🇧",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#United%20Kingdom"
-},
-   
-   {
-  "name": "United Kingdom 5 🇬🇧",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#United%20Kingdom"
-},
-   
-   {
-  "name": "United Kingdom 6 🇬🇧",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#United%20Kingdom"
-},
+    "name": "United States 3 🇺🇸",
+    "config": "ss://YWVzLTI1Ni1nY206bUs3ZU4zejI3NlRyMHZWQQ==@154.12.240.141:443"
+  },
   {
-  "name": "Germany 1 🇩🇪",
-  "config": "ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ==@2.58.81.221:80#Germany%20#33931%20/%20OutlineKeys.com"
-},
-  
-    {
-  "name": "Germany 2 🇩🇪",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#Germany"
-},
-   
-    {
-  "name": "Germany 3 🇩🇪",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.250.107:990#Germany"
-},
-   
-    {
-  "name": "Germany 4 🇩🇪",
-  "config": "ss://YWVzLTI1Ni1nY206amQ5RlIxMndwcktQTkpIZw@62.146.171.57:443#Germany"
-},
-   
-    {
-  "name": "Germany 5 🇩🇪",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRN2NqaVZEMG9LTkUybzlzVW5aS1Fn@46.101.196.138:23243#Germany"
-},
-
-{
-  "name": "Italy 1 🇮🇹",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.126.83.158:990#Italy%20#28853%20/%20OutlineKeys.com"
-},
+    "name": "United States 4 🇺🇸",
+    "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.9:443"
+  },
   {
-  "name": "Spain 1 🇪🇸",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.130.203:990#Spain"
-},
-   
- {
+    "name": "United States 5 🇺🇸",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443"
+  },
+  {
+    "name": "United States 6 🇺🇸",
+    "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443"
+  },
+  {
+    "name": "Netherlands 1 🇳🇱",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080"
+  },
+  {
+    "name": "Netherlands 2 🇳🇱",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080"
+  },
+  {
+    "name": "Netherlands 3 🇳🇱",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080"
+  },
+  {
+    "name": "Netherlands 4 🇳🇱",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080"
+  },
+  {
+    "name": "Netherlands 5 🇳🇱",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080"
+  },
+  {
+    "name": "United Kingdom 1 🇬🇧",
+    "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443"
+  },
+  {
+    "name": "United Kingdom 2 🇬🇧",
+    "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443"
+  },
+  {
+    "name": "United Kingdom 3 🇬🇧",
+    "config": "ss://YWVzLTI1Ni1nY206bGRqbXdvTnFnUXFxYzQzag==@149.102.132.184:80"
+  },
+  {
+    "name": "United Kingdom 4 🇬🇧",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080"
+  },
+  {
+    "name": "United Kingdom 5 🇬🇧",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080"
+  },
+  {
+    "name": "United Kingdom 6 🇬🇧",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080"
+  },
+  {
+    "name": "Germany 1 🇩🇪",
+    "config": "ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ==@2.58.81.221:80"
+  },
+  {
+    "name": "Germany 2 🇩🇪",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001"
+  },
+  {
+    "name": "Germany 3 🇩🇪",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.250.107:990"
+  },
+  {
+    "name": "Germany 4 🇩🇪",
+    "config": "ss://YWVzLTI1Ni1nY206amQ5RlIxMndwcktQTkpIZw@62.146.171.57:443"
+  },
+  {
+    "name": "Germany 5 🇩🇪",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRN2NqaVZEMG9LTkUybzlzVW5aS1Fn@46.101.196.138:23243"
+  },
+  {
+    "name": "Italy 1 🇮🇹",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.126.83.158:990"
+  },
+  {
+    "name": "Spain 1 🇪🇸",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.130.203:990"
+  },
+  {
     "name": "Finland 1 🇫🇮",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k=@46.249.109.128:56594#Finland%20#34107%20/%20OutlineKeys.com"
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k=@46.249.109.128:56594"
   },
-   
-    {
+  {
     "name": "Portugal 1 🇵🇹",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.113.143.186:990#Portugal"
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.113.143.186:990"
   },
-     {
-    "name": "Russia 1 🇷🇺 ",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#Russia"
-  },
-    {
-    "name": "Ukraine 1 🇺🇦 ",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443#Ukraine"
-  },
-   
-    {
-    "name": "Turkey 1 🇹🇷  ",
-    "config": "ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#T%C3%BCrkiye"
-  },
-   
-    {
-    "name": "Turkey 2 🇹🇷  ",
-    "config": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#T%C3%BCrkiye"
-  },
-   
-   {
-  "name": "Latvia 1 🇱🇻 ",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@46.183.217.204:990#Latvia"
-},
-    {
-    "name": "Bulgaria 1 🇧🇬 ",
-    "config": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#Bulgaria"
-  },
-   
-   {
-  "name": "Japan 1 🇯🇵",
-  "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#Japan%20Datacamp"
-},
-    {
-  "name": "Japan 2 🇯🇵",
-  "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#Japan%20Datacamp"
-},
- 
-   {
-  "name": "Singapore 1 🇸🇬",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.130.203:990#Spain"
-},
-   {
-  "name": "Singapore 2 🇸🇬",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@156.59.243.6:990#Singapore"
-},
-   
   {
-  "name": "Indonesia 1 🇮🇩",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.60.171.254:990#t.me/OutlineVpnOfficial | Free | 2733 | Indonesia"
-},
-   
-   {
-  "name": "Brazil 1 🇧🇷 ",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.15.185.70:990#Brazil"
-},
-   
-    {
+    "name": "Russia 1 🇷🇺",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287"
+  },
+  {
+    "name": "Ukraine 1 🇺🇦",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443"
+  },
+  {
+    "name": "Turkey 1 🇹🇷",
+    "config": "ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376"
+  },
+  {
+    "name": "Turkey 2 🇹🇷",
+    "config": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119"
+  },
+  {
+    "name": "Latvia 1 🇱🇻",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@46.183.217.204:990"
+  },
+  {
+    "name": "Bulgaria 1 🇧🇬",
+    "config": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001"
+  },
+  {
+    "name": "Japan 1 🇯🇵",
+    "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443"
+  },
+  {
+    "name": "Japan 2 🇯🇵",
+    "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443"
+  },
+  {
+    "name": "Singapore 1 🇸🇬",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.130.203:990"
+  },
+  {
+    "name": "Singapore 2 🇸🇬",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@156.59.243.6:990"
+  },
+  {
+    "name": "Indonesia 1 🇮🇩",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.60.171.254:990"
+  },
+  {
+    "name": "Brazil 1 🇧🇷",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.15.185.70:990"
+  },
+  {
     "name": "Argentina 1 🇦🇷",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@190.103.176.32:990#Argentina"
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@190.103.176.32:990"
   },
-    {
-  "name": "Bolivia 1 🇧🇴 ",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.93.173.60:990#Bolivia"
-},
-  
-    {
-  "name": "Taiwan 1 🇹🇼",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.223.20.79:990#Taiwan"
-},
-   {
-  "name": "Philippines 1 🇵🇭 ",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#Philippines"
-},
   {
-  "name": "India 1 🇮🇳",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGhEMUFnd1hjOFN0cHA3aEVvaExh@139.59.87.22:16970#India"
-},
-   
-
-  
- {
-  "name": "uae 1 🇦🇪",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#United Arab Emirates%20#28810%20/%20OutlineKeys.com"
-},
-  
- {
-  "name": "South Africa 1 🇿🇦",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@156.38.168.58:990#t.me/OutlineVpnOfficial | Free | 2766 | South Africa"
-},
-   
- {
-  "name": "South Africa 2 🇿🇦",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443#South%20Africa"
-},
-  
-{
-  "name": "Egypt 1 🇪🇬",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.59.107:990#t.me/OutlineVpnOfficial | Free | 2796 | Egypt"
-},
-  
- {
-  "name": "Morocco 1 🇲🇦",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@188.214.157.30:990#Morocco"
-},
-   {
-  "name": "Puerto Rico 1 🇵🇷 ",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.47.255.22:990#Puerto%20Rico"
-},
-   {
-  "name": "Ecuador 1 🇪🇨 ",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.165.231.25:990#Ecuador"
-},
-  
-  {
-  "name": "peru 1 🇵🇪",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@138.186.143.32:990#t.me/OutlineVpnOfficial | Free | 2872 | Peru"
-},
-   {
-    "name": "Canada 1 🇨🇦 ",
-    "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#Canada%20Datacamp"
+    "name": "Bolivia 1 🇧🇴",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.93.173.60:990"
   },
- 
-   {
-    "name": "Canada 2 🇨🇦 ",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@79.127.200.169:990#Canada"
-  }, 
-   
-   {
-    "name": "Canada 3 🇨🇦 ",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.154.204.7:990#Canada"
-  }, 
-   
-   {
-    "name": "Canada 4 🇨🇦 ",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFbXV3Yk94VXc0SVhk@107.172.250.161:59556#Canada"
-  }  
+  {
+    "name": "Taiwan 1 🇹🇼",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.223.20.79:990"
+  },
+  {
+    "name": "Philippines 1 🇵🇭",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687"
+  },
+  {
+    "name": "India 1 🇮🇳",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGhEMUFnd1hjOFN0cHA3aEVvaExh@139.59.87.22:16970"
+  },
+  {
+    "name": "uae 1 🇦🇪",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990"
+  },
+  {
+    "name": "South Africa 1 🇿🇦",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@156.38.168.58:990"
+  },
+  {
+    "name": "South Africa 2 🇿🇦",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443"
+  },
+  {
+    "name": "Egypt 1 🇪🇬",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.59.107:990"
+  },
+  {
+    "name": "Morocco 1 🇲🇦",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@188.214.157.30:990"
+  },
+  {
+    "name": "Puerto Rico 1 🇵🇷",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.47.255.22:990"
+  },
+  {
+    "name": "Ecuador 1 🇪🇨",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.165.231.25:990"
+  },
+  {
+    "name": "peru 1 🇵🇪",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@138.186.143.32:990"
+  },
+  {
+    "name": "Canada 1 🇨🇦",
+    "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443"
+  },
+  {
+    "name": "Canada 2 🇨🇦",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@79.127.200.169:990"
+  },
+  {
+    "name": "Canada 3 🇨🇦",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.154.204.7:990"
+  },
+  {
+    "name": "Canada 4 🇨🇦",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFbXV3Yk94VXc0SVhk@107.172.250.161:59556"
+  }
 ]
