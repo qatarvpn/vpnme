@@ -99,6 +99,15 @@
     "name": "Finland 1 🇫🇮",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k=@46.249.109.128:56594#Finland 🇫🇮"
   },
+  
+  {
+    "name": "Belgium 1 🇧🇪 ",
+    "config": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989#Belgium 🇧🇪 "
+  },
+  {
+    "name": "Austria 1 🇦🇹 ",
+    "config": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.56.69:989#Austria 🇸🇬"
+  },
   {
     "name": "Portugal 1 🇵🇹",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.113.143.186:990#Portugal 🇵🇹"
@@ -107,10 +116,7 @@
     "name": "Russia 1 🇷🇺",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#Russia 🇷🇺"
   },
-  {
-    "name": "Ukraine 1 🇺🇦",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443#Ukraine 🇺🇦"
-  },
+
   {
     "name": "Turkey 1 🇹🇷",
     "config": "ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#Turkey 🇹🇷"
@@ -135,6 +141,16 @@
     "name": "Japan 2 🇯🇵",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#Japan 🇯🇵"
   },
+  
+  {
+    "name": "South Korea 1 🇰🇷 ",
+    "config": "ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#South korea 🇰🇷 "
+  },
+  
+  {
+    "name": "South Korea 2 🇰🇷 ",
+    "config": "ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#South korea 🇰🇷"
+  },
   {
     "name": "Singapore 1 🇸🇬",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.130.203:990#Singapore 🇸🇬"
@@ -142,6 +158,11 @@
   {
     "name": "Singapore 2 🇸🇬",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@156.59.243.6:990#Singapore 🇸🇬"
+  },
+  
+  {
+    "name": "Singapore 3 🇸🇬",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#Singapore🇸🇬"
   },
   {
     "name": "Indonesia 1 🇮🇩",
