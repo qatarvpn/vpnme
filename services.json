@@ -68,8 +68,24 @@
     "name": "Germany 1 🇩🇪",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#Germany 🇩🇪"
   },
+  {
+    "name": "Germany 2 🇩🇪",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZTI4NzYzMWRjNGZjOGZj@62.146.231.112:12012#Germany 🇩🇪"
+  },
+    {
+    "name": "Germany 3 🇩🇪",
+    "config": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#Germany 🇩🇪"
+  },
   
-
+  {
+    "name": "France 1 🇫🇷 ",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#France 🇫🇷 "
+  },
+  
+  {
+    "name": "France 2 🇫🇷 ",
+    "config": "ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#France 🇫🇷 "
+  },
   {
     "name": "Turkey 1 🇹🇷",
     "config": "ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#Turkey 🇹🇷"
@@ -80,6 +96,14 @@
   },
   
   {
+    "name": "Bulgaria 1 🇧🇬 ",
+    "config": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#Bulgaria 🇧🇬"
+  },
+  {
+    "name": "Russia 1 🇷🇺 ",
+    "config": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TldSYkx2K05JejUrenNzdTdueGsrZkN3N3dESFlMRmJXeTRtM0V5N09vMD06TUllZHB3TFE4NCtDR0VUVzB0ZkMwVFI4SFZBc3c1QTFzSStMaiswaUV5az0@91.107.247.25:8083#Russia 🇷🇺"
+  },
+  {
     "name": "Japan 1 🇯🇵",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#Japan 🇯🇵"
   },
@@ -87,12 +111,20 @@
     "name": "Japan 2 🇯🇵",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#Japan 🇯🇵"
   },
-  
   {
     "name": "Philippines 1 🇵🇭",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#Philippines 🇵🇭"
   },
   
+  {
+    "name": "South African 1 🇿🇦 ",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#South frica 🇿🇦"
+  },
+  
+  {
+    "name": "South African 2 🇿🇦 ",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#South frica 🇿🇦"
+  },
   {
     "name": "Canada 1 🇨🇦",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#Canada 🇨🇦"
