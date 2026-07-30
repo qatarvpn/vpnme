@@ -109,6 +109,10 @@
     "name": "France 1 🇫🇷 ",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#France 🇫🇷 "
   },
+   {
+    "name": "France 2 🇫🇷 ",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQm5WMzZ0enQ3TUtWNzVhRFpUYnpH@141.227.152.129:8388#France 🇫🇷 "
+  },
   {
     "name": "Italy 1 🇮🇹 ",
     "config": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#Italy 🇮🇹 "
@@ -172,5 +176,10 @@
   {
     "name": "Canada 2 🇨🇦",
     "config": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.196.61.82:8080#Canada 🇨🇦"
+  },
+  
+  {
+    "name": "Canada 3 🇨🇦",
+    "config": "ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#Canada 🇨🇦"
   }
 ]
