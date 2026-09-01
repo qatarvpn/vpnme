@@ -105,6 +105,11 @@
     "name": "Germany 3 🇩🇪",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#Germany 🇩🇪"
   },
+  
+    {
+    "name": "Germany 4 🇩🇪",
+    "config": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#Germany 🇩🇪"
+  },
   {
     "name": "Poland 1 🇵🇱",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8316#Poland 🇵🇱"
@@ -112,6 +117,31 @@
    {
     "name": "Poland 2 🇵🇱",
     "config": "ss://YWVzLTI1Ni1nY206Z29SejhDVEZFNnpQWlhJQQ@94.72.127.58:443#Poland 🇵🇱 "
+  },
+  
+    {
+    "name": "France 1 🇫🇷 ",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#France 🇫🇷"
+  },
+  
+    {
+    "name": "France 2 🇫🇷 ",
+    "config": "ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#France 🇫🇷"
+  },
+  
+    {
+    "name": "France 3 🇫🇷 ",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#France 🇫🇷"
+  },
+  
+    {
+    "name": "France 4 🇫🇷 ",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#France 🇫🇷 "
+  },
+  
+    {
+    "name": "France 5 🇫🇷 ",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#France 🇫🇷"
   },
   {
     "name": "Spain 1 🇪🇸 ",
@@ -129,7 +159,15 @@
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#Norway 🇳🇴 "
   },
   
+    {
+    "name": "Denmark 1 🇩🇰  ",
+    "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#Denmark 🇩🇰"
+  },
  
+    {
+    "name": "Italy 1 🇮🇹 ",
+    "config": "ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#Italy 🇮🇹"
+  },
   {
     "name": "Japan 1 🇯🇵",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#Japan 🇯🇵"
